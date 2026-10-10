@@ -1,0 +1,2034 @@
+Food Names,Calories per gram,Carbohydrates per gram,Protein per gram,Fats per gram,Category,Location
+Adobo,1.85,0.03,0.17,0.115,Ulam / Main Dish,Nationwide / General
+Chicken Adobo,2,0.025,0.22,0.11,Ulam / Main Dish,Nationwide / General
+Pork Adobo,2.6,0.02,0.18,0.2,Ulam / Main Dish,Nationwide / General
+Adobong Pusit,1.25,0.04,0.18,0.04,Ulam / Main Dish,Nationwide / General
+Adobong Kangkong,0.6,0.07,0.02,0.025,Ulam / Main Dish,Nationwide / General
+Adobong Sitaw,0.75,0.09,0.03,0.03,Ulam / Main Dish,Nationwide / General
+Adobong Manok sa Gata,2.3,0.03,0.18,0.17,Ulam / Main Dish,Nationwide / General
+Adobong Atay,1.7,0.05,0.22,0.07,Ulam / Main Dish,Nationwide / General
+Adobong Balut,2.15,0.02,0.14,0.17,Ulam / Main Dish,Nationwide / General
+Afritada,1.55,0.06,0.14,0.09,Ulam / Main Dish,Nationwide / General
+Menudo,1.8,0.07,0.12,0.11,Ulam / Main Dish,Nationwide / General
+Mechado,1.9,0.05,0.17,0.11,Ulam / Main Dish,Nationwide / General
+Caldereta,2.1,0.06,0.17,0.13,Ulam / Main Dish,Nationwide / General
+Kare-Kare,2.2,0.08,0.13,0.16,Ulam / Main Dish,Nationwide / General
+Crispy Pata,3.7,0.02,0.18,0.33,Other / General Filipino Food,Nationwide / General
+Lechon,3.2,0,0.22,0.26,Ulam / Main Dish,Nationwide / General
+Lechon Kawali,4,0.03,0.17,0.37,Ulam / Main Dish,Nationwide / General
+Paksiw na Lechon,2.6,0.09,0.16,0.17,Ulam / Main Dish,Nationwide / General
+Sinigang,0.75,0.03,0.09,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang na Baboy,1.15,0.03,0.12,0.06,Ulam / Main Dish,Nationwide / General
+Sinigang na Hipon,0.7,0.02,0.13,0.01,Ulam / Main Dish,Nationwide / General
+Sinigang na Bangus,0.95,0.02,0.14,0.04,Ulam / Main Dish,Nationwide / General
+Sinigang na Baka,1.1,0.03,0.13,0.05,Ulam / Main Dish,Nationwide / General
+Sinigang na Isda,0.8,0.02,0.14,0.02,Ulam / Main Dish,Nationwide / General
+Sinampalukang Manok,0.9,0.02,0.14,0.03,Other / General Filipino Food,Nationwide / General
+Tinola,0.95,0.02,0.15,0.035,Ulam / Main Dish,Nationwide / General
+Nilaga,1,0.03,0.13,0.04,Ulam / Main Dish,Nationwide / General
+Bulalo,1.3,0.02,0.12,0.08,Ulam / Main Dish,Nationwide / General
+Pochero,1.4,0.08,0.1,0.07,Other / General Filipino Food,Nationwide / General
+Pesang Isda,0.75,0.02,0.14,0.015,Other / General Filipino Food,Nationwide / General
+Pesang Manok,0.9,0.02,0.15,0.03,Other / General Filipino Food,Nationwide / General
+Batchoy,1.2,0.12,0.06,0.05,Rice / Noodles / Soup,Visayas
+La Paz Batchoy,1.45,0.13,0.07,0.07,Rice / Noodles / Soup,Visayas
+Mami,1.1,0.13,0.06,0.03,Rice / Noodles / Soup,Nationwide / General
+Beef Mami,1.25,0.12,0.08,0.04,Rice / Noodles / Soup,Nationwide / General
+Chicken Mami,1.1,0.12,0.08,0.03,Rice / Noodles / Soup,Nationwide / General
+Lomi,1.4,0.15,0.07,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Canton,1.8,0.26,0.06,0.06,Rice / Noodles / Soup,Nationwide / General
+Pancit Bihon,1.6,0.25,0.05,0.04,Rice / Noodles / Soup,Nationwide / General
+Pancit Malabon,1.7,0.24,0.07,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Palabok,1.85,0.25,0.07,0.06,Rice / Noodles / Soup,Nationwide / General
+Pancit Luglug,1.8,0.25,0.07,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Habhab,1.75,0.24,0.07,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Batil Patung,2,0.2,0.08,0.09,Rice / Noodles / Soup,Nationwide / General
+Pancit Cabagan,1.85,0.22,0.08,0.07,Rice / Noodles / Soup,Nationwide / General
+Pancit Molo,1.1,0.1,0.07,0.04,Rice / Noodles / Soup,Visayas
+Pancit Sotanghon,1.55,0.26,0.04,0.03,Rice / Noodles / Soup,Nationwide / General
+Pancit Bam-i,1.7,0.24,0.06,0.05,Rice / Noodles / Soup,Visayas
+Pancit Chami,1.9,0.25,0.07,0.07,Rice / Noodles / Soup,Nationwide / General
+Pancit Guisado,1.7,0.24,0.06,0.05,Rice / Noodles / Soup,Nationwide / General
+Sotanghon Soup,0.75,0.09,0.04,0.02,Other / General Filipino Food,Nationwide / General
+Arroz Caldo,0.8,0.12,0.03,0.02,Rice / Noodles / Soup,Nationwide / General
+Lugaw,0.6,0.11,0.01,0.005,Rice / Noodles / Soup,Nationwide / General
+Goto,0.85,0.11,0.04,0.02,Rice / Noodles / Soup,Nationwide / General
+Champorado,1.2,0.22,0.02,0.03,Rice / Noodles / Soup,Nationwide / General
+Tokwa't Baboy,2,0.03,0.14,0.15,Other / General Filipino Food,Nationwide / General
+Dinuguan,1.9,0.05,0.14,0.13,Ulam / Main Dish,Nationwide / General
+Bopis,1.8,0.04,0.17,0.11,Other / General Filipino Food,Nationwide / General
+Sisig,2.9,0.04,0.18,0.24,Ulam / Main Dish,Pampanga
+Pork Sisig,3.1,0.04,0.17,0.27,Ulam / Main Dish,Pampanga
+Chicken Sisig,2.3,0.03,0.22,0.15,Ulam / Main Dish,Pampanga
+Bangus Sisig,1.9,0.03,0.2,0.11,Ulam / Main Dish,Pampanga
+Tofu Sisig,1.7,0.05,0.11,0.12,Ulam / Main Dish,Pampanga
+Kilawin,1.45,0.03,0.2,0.06,Other / General Filipino Food,Nationwide / General
+Kinilaw,1.1,0.02,0.2,0.03,Other / General Filipino Food,Nationwide / General
+Kinilaw na Tanigue,1.2,0.02,0.22,0.04,Other / General Filipino Food,Nationwide / General
+Kinilaw na Tuna,1.1,0.02,0.24,0.02,Other / General Filipino Food,Nationwide / General
+Inihaw na Liempo,3.2,0.02,0.2,0.26,Other / General Filipino Food,Nationwide / General
+Inihaw na Baboy,2.7,0.02,0.23,0.19,Other / General Filipino Food,Nationwide / General
+Inihaw na Manok,2,0.01,0.27,0.09,Other / General Filipino Food,Nationwide / General
+Inihaw na Isda,1.4,0,0.26,0.04,Other / General Filipino Food,Nationwide / General
+Inihaw na Pusit,1.1,0.02,0.21,0.02,Other / General Filipino Food,Nationwide / General
+Inihaw na Hito,1.9,0,0.23,0.11,Other / General Filipino Food,Nationwide / General
+Inasal,2.1,0.02,0.25,0.11,Other / General Filipino Food,Visayas
+Chicken Inasal,2.05,0.02,0.26,0.1,Other / General Filipino Food,Visayas
+Pork Barbecue,2.9,0.08,0.22,0.19,Other / General Filipino Food,Nationwide / General
+Chicken Barbecue,2.2,0.07,0.25,0.09,Other / General Filipino Food,Nationwide / General
+Isaw,2.4,0.02,0.22,0.16,Street Food,Nationwide / General
+Betamax,1.4,0.03,0.17,0.07,Street Food,Nationwide / General
+8Adidas,2,0.01,0.22,0.12,Street Food,Nationwide / General
+Helmet,2.2,0.01,0.19,0.16,Street Food,Nationwide / General
+Walkman,2.3,0.01,0.18,0.17,Other / General Filipino Food,Nationwide / General
+IUD,1.6,0.02,0.17,0.09,Other / General Filipino Food,Nationwide / General
+Kwek-Kwek,2.2,0.18,0.08,0.13,Street Food,Nationwide / General
+Tokneneng,2.1,0.14,0.09,0.13,Other / General Filipino Food,Nationwide / General
+Fish Ball,1.8,0.22,0.1,0.06,Other / General Filipino Food,Nationwide / General
+Squid Ball,2,0.2,0.11,0.09,Street Food,Nationwide / General
+Kikiam,2.1,0.18,0.11,0.11,Street Food,Nationwide / General
+Chicken Skin,5.2,0.02,0.24,0.46,Other / General Filipino Food,Nationwide / General
+Proben,2.7,0.14,0.17,0.17,Other / General Filipino Food,Nationwide / General
+Banana Cue,2.3,0.4,0.01,0.08,Kakanin / Dessert,Nationwide / General
+Kamote Cue,2.2,0.41,0.01,0.06,Kakanin / Dessert,Nationwide / General
+Turon,2.7,0.41,0.02,0.11,Kakanin / Dessert,Nationwide / General
+Maruya,2.6,0.4,0.04,0.1,Other / General Filipino Food,Nationwide / General
+Carioca,3.1,0.48,0.03,0.12,Other / General Filipino Food,Nationwide / General
+Ginanggang,2.1,0.36,0.01,0.07,Other / General Filipino Food,Nationwide / General
+Nilupak,2.5,0.39,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Cassava Cake,2.9,0.43,0.03,0.12,Kakanin / Dessert,Nationwide / General
+Puto,2.1,0.44,0.04,0.02,Kakanin / Dessert,Nationwide / General
+Puto Bumbong,2.4,0.43,0.04,0.06,Kakanin / Dessert,Nationwide / General
+Puto Maya,2.3,0.42,0.04,0.05,Kakanin / Dessert,Nationwide / General
+Puto Cheese,2.6,0.41,0.06,0.08,Kakanin / Dessert,Nationwide / General
+Puto Flan,2.8,0.39,0.06,0.11,Kakanin / Dessert,Nationwide / General
+Bibingka,2.7,0.39,0.05,0.1,Kakanin / Dessert,Nationwide / General
+Bibingkang Galapong,2.5,0.41,0.05,0.07,Kakanin / Dessert,Nationwide / General
+Bibingkang Malagkit,2.8,0.46,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Bibingkang Cassava,2.9,0.43,0.03,0.12,Kakanin / Dessert,Nationwide / General
+Suman,2.2,0.45,0.03,0.03,Kakanin / Dessert,Nationwide / General
+Suman sa Lihiya,2.1,0.44,0.03,0.02,Kakanin / Dessert,Nationwide / General
+Suman sa Ibos,2.3,0.46,0.03,0.03,Kakanin / Dessert,Nationwide / General
+Suman Moron,2.7,0.44,0.04,0.09,Kakanin / Dessert,Nationwide / General
+Moron,2.7,0.44,0.04,0.09,Other / General Filipino Food,Nationwide / General
+Biko,3.1,0.51,0.03,0.11,Other / General Filipino Food,Nationwide / General
+Sapin-Sapin,3,0.5,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Kutsinta,2,0.44,0.02,0.01,Kakanin / Dessert,Nationwide / General
+Palitaw,2.4,0.41,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Maja Blanca,2.5,0.34,0.03,0.12,Kakanin / Dessert,Nationwide / General
+Leche Flan,3,0.28,0.06,0.19,Kakanin / Dessert,Nationwide / General
+Halo-Halo,1.4,0.27,0.03,0.03,Kakanin / Dessert,Nationwide / General
+Mais con Yelo,1.3,0.25,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Sago't Gulaman,0.9,0.22,0.001,0.002,Beverage,Nationwide / General
+Minatamis na Saging,1.7,0.38,0.01,0.02,Other / General Filipino Food,Nationwide / General
+Minatamis na Kamote,1.6,0.36,0.01,0.02,Other / General Filipino Food,Nationwide / General
+Binignit,1.6,0.26,0.02,0.06,Other / General Filipino Food,Nationwide / General
+Ginataang Bilo-Bilo,1.7,0.28,0.02,0.06,Other / General Filipino Food,Nationwide / General
+Ginataang Mais,1.6,0.25,0.03,0.06,Other / General Filipino Food,Nationwide / General
+Ginataang Halo-Halo,1.8,0.27,0.02,0.07,Kakanin / Dessert,Nationwide / General
+Ube Halaya,3,0.47,0.02,0.12,Kakanin / Dessert,Nationwide / General
+Kalamay,3.2,0.56,0.02,0.11,Other / General Filipino Food,Nationwide / General
+Kalamay Hati,3.1,0.55,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Kalamay Lansong,3,0.54,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Yema,4.1,0.48,0.07,0.21,Other / General Filipino Food,Nationwide / General
+Pastillas,3.9,0.56,0.08,0.15,Other / General Filipino Food,Nationwide / General
+Polvoron,5.1,0.54,0.06,0.31,Kakanin / Dessert,Nationwide / General
+Brazo de Mercedes,3.6,0.36,0.07,0.22,Other / General Filipino Food,Nationwide / General
+Sans Rival,5.2,0.34,0.08,0.4,Other / General Filipino Food,Nationwide / General
+Silvanas,5,0.39,0.07,0.36,Other / General Filipino Food,Nationwide / General
+Pianono,3.2,0.45,0.06,0.13,Other / General Filipino Food,Nationwide / General
+Mamon,3.3,0.47,0.07,0.12,Other / General Filipino Food,Nationwide / General
+Ensaymada,3.8,0.49,0.08,0.17,Kakanin / Dessert,Nationwide / General
+Pan de Sal,2.7,0.53,0.08,0.03,Other / General Filipino Food,Nationwide / General
+Pan de Coco,3.3,0.5,0.07,0.12,Other / General Filipino Food,Nationwide / General
+Spanish Bread,3.8,0.52,0.07,0.16,Other / General Filipino Food,Nationwide / General
+Monay,3.1,0.58,0.08,0.05,Other / General Filipino Food,Nationwide / General
+Putok,3.2,0.59,0.08,0.05,Kakanin / Dessert,Nationwide / General
+Kababayan,3.8,0.52,0.06,0.17,Other / General Filipino Food,Nationwide / General
+Hopia,4.2,0.57,0.07,0.18,Kakanin / Dessert,Nationwide / General
+Egg Pie,3.4,0.34,0.07,0.2,Fast Food / Commercial,Nationwide / General
+Buko Pie,3.3,0.39,0.04,0.18,Fast Food / Commercial,Nationwide / General
+Pineapple Pie,3.2,0.43,0.04,0.15,Fast Food / Commercial,Nationwide / General
+Empanada,2.9,0.28,0.09,0.16,Other / General Filipino Food,Nationwide / General
+Ilocos Empanada,2.7,0.26,0.08,0.16,Other / General Filipino Food,Ilocos Region
+Vigan Empanada,2.8,0.27,0.09,0.17,Other / General Filipino Food,Nationwide / General
+Lumpia Shanghai,3.1,0.18,0.12,0.22,Other / General Filipino Food,Nationwide / General
+Fresh Lumpia,1.5,0.22,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Lumpiang Sariwa,1.5,0.22,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Lumpiang Gulay,1.4,0.18,0.04,0.06,Other / General Filipino Food,Nationwide / General
+Lumpiang Ubod,1.4,0.17,0.04,0.06,Other / General Filipino Food,Nationwide / General
+Lumpiang Togue,1.6,0.18,0.05,0.08,Other / General Filipino Food,Nationwide / General
+Lumpiang Isda,2,0.17,0.12,0.1,Other / General Filipino Food,Nationwide / General
+Lumpiang Prito,2.5,0.22,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Ukoy,2.2,0.2,0.09,0.12,Other / General Filipino Food,Nationwide / General
+Okoy,2.2,0.2,0.09,0.12,Other / General Filipino Food,Nationwide / General
+Tortang Talong,1.6,0.06,0.06,0.12,Ulam / Main Dish,Nationwide / General
+Tortang Giniling,2.2,0.05,0.15,0.16,Ulam / Main Dish,Nationwide / General
+Tortang Alimasag,1.9,0.04,0.14,0.13,Ulam / Main Dish,Nationwide / General
+Tortang Dulong,1.8,0.05,0.14,0.11,Ulam / Main Dish,Nationwide / General
+Rellenong Bangus,2.1,0.04,0.18,0.13,Ulam / Main Dish,Nationwide / General
+Rellenong Manok,2.3,0.05,0.18,0.15,Other / General Filipino Food,Nationwide / General
+Embutido,2.4,0.07,0.15,0.17,Other / General Filipino Food,Nationwide / General
+Morcon,2.2,0.05,0.18,0.14,Other / General Filipino Food,Nationwide / General
+Chicken Curry,2.1,0.05,0.17,0.14,Other / General Filipino Food,Nationwide / General
+Ginataang Manok,2.2,0.04,0.17,0.16,Other / General Filipino Food,Nationwide / General
+Ginataang Hipon,1.7,0.04,0.16,0.1,Other / General Filipino Food,Nationwide / General
+Ginataang Alimasag,1.8,0.05,0.15,0.11,Other / General Filipino Food,Nationwide / General
+Ginataang Langka,1.4,0.1,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Ginataang Kalabasa,1.3,0.11,0.02,0.08,Other / General Filipino Food,Nationwide / General
+Ginataang Sitaw,1.2,0.09,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Ginataang Gulay,1.2,0.09,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Laing,1.6,0.08,0.03,0.13,Ulam / Main Dish,Bicol Region
+Pinangat,1.7,0.07,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Bicol Express,2.4,0.04,0.14,0.19,Ulam / Main Dish,Bicol Region
+Dinengdeng,0.5,0.06,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Pinakbet,0.9,0.09,0.03,0.05,Ulam / Main Dish,Nationwide / General
+Bulanglang,0.5,0.06,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Ginisang Ampalaya,0.9,0.06,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Ginisang Monggo,1.2,0.14,0.06,0.04,Other / General Filipino Food,Nationwide / General
+Monggo Guisado,1.3,0.14,0.07,0.05,Other / General Filipino Food,Nationwide / General
+Ensaladang Talong,0.7,0.06,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Ensaladang Mangga,1,0.14,0.01,0.03,Other / General Filipino Food,Nationwide / General
+Burong Mangga,0.8,0.18,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Burong Isda,1.4,0.1,0.12,0.05,Other / General Filipino Food,Nationwide / General
+Burong Hipon,1.5,0.08,0.14,0.06,Other / General Filipino Food,Nationwide / General
+Atchara,0.9,0.18,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Lumpiang Hubad,1.3,0.17,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Ginisang Repolyo,0.8,0.07,0.02,0.05,Other / General Filipino Food,Nationwide / General
+Ginisang Sayote,0.8,0.08,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Upo,0.7,0.06,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Patola,0.7,0.06,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Pechay,0.7,0.05,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Daing na Bangus,2.1,0.01,0.24,0.12,Ulam / Main Dish,Nationwide / General
+Daing na Bisugo,1.8,0.01,0.26,0.07,Ulam / Main Dish,Nationwide / General
+Danggit,2.9,0,0.5,0.09,Other / General Filipino Food,Nationwide / General
+Tuyo,2.9,0,0.54,0.08,Other / General Filipino Food,Nationwide / General
+Tinapa,2.1,0,0.28,0.1,Other / General Filipino Food,Nationwide / General
+Dilis,3.1,0.02,0.52,0.11,Other / General Filipino Food,Nationwide / General
+Paksiw na Isda,0.9,0.02,0.16,0.03,Ulam / Main Dish,Nationwide / General
+Paksiw na Pata,2.3,0.03,0.15,0.18,Ulam / Main Dish,Nationwide / General
+Paksiw na Bangus,1.2,0.02,0.18,0.05,Ulam / Main Dish,Nationwide / General
+Escabeche,1.6,0.1,0.14,0.07,Other / General Filipino Food,Nationwide / General
+Sweet and Sour Lapu-Lapu,1.6,0.1,0.15,0.07,Other / General Filipino Food,Nationwide / General
+Sarciadong Isda,1.3,0.04,0.16,0.06,Other / General Filipino Food,Nationwide / General
+Sinuglaw,1.8,0.02,0.2,0.1,Other / General Filipino Food,Nationwide / General
+Kilawing Puso ng Saging,1.1,0.09,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Kinunot,1.6,0.05,0.16,0.09,Other / General Filipino Food,Nationwide / General
+Dinakdakan,2.7,0.03,0.18,0.21,Other / General Filipino Food,Ilocos Region
+Igado,2,0.05,0.18,0.12,Other / General Filipino Food,Nationwide / General
+Papaitan,1.3,0.02,0.14,0.07,Other / General Filipino Food,Nationwide / General
+Pinapaitan,1.3,0.02,0.14,0.07,Other / General Filipino Food,Nationwide / General
+Dinardaraan,2.1,0.04,0.16,0.15,Other / General Filipino Food,Nationwide / General
+Bagnet,4.3,0.01,0.18,0.4,Other / General Filipino Food,Ilocos Region
+Poqui Poqui,1.2,0.06,0.05,0.08,Other / General Filipino Food,Nationwide / General
+Pinaputok na Tilapia,1.5,0.03,0.18,0.07,Ulam / Main Dish,Nationwide / General
+Sinampalukang Kambing,1.2,0.02,0.15,0.05,Other / General Filipino Food,Nationwide / General
+Kalderetang Kambing,2.2,0.05,0.17,0.14,Other / General Filipino Food,Nationwide / General
+Kalderetang Baka,2.1,0.06,0.17,0.13,Other / General Filipino Food,Nationwide / General
+Beef Steak Tagalog,2,0.04,0.2,0.12,Other / General Filipino Food,Nationwide / General
+Bistek Tagalog,2,0.04,0.2,0.12,Other / General Filipino Food,Nationwide / General
+Pork Steak,2.5,0.04,0.18,0.18,Other / General Filipino Food,Nationwide / General
+Chicken Steak,1.9,0.04,0.22,0.09,Other / General Filipino Food,Nationwide / General
+Humba,3,0.06,0.17,0.24,Other / General Filipino Food,Nationwide / General
+Pata Tim,2.8,0.05,0.16,0.22,Other / General Filipino Food,Nationwide / General
+Asado,2.4,0.08,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Lechon Paksiw,2.6,0.09,0.16,0.17,Ulam / Main Dish,Nationwide / General
+Hardinera,2.3,0.06,0.16,0.16,Other / General Filipino Food,Nationwide / General
+Bola-Bola,2.2,0.08,0.15,0.14,Other / General Filipino Food,Nationwide / General
+Bola-Bolang Isda,1.6,0.1,0.14,0.07,Other / General Filipino Food,Nationwide / General
+Bola-Bolang Baboy,2.3,0.07,0.16,0.16,Other / General Filipino Food,Nationwide / General
+Chicharon,5.5,0,0.28,0.47,Other / General Filipino Food,Nationwide / General
+Chicharon Bulaklak,5.8,0.01,0.22,0.55,Other / General Filipino Food,Nationwide / General
+Chicharong Isda,4.2,0.01,0.35,0.32,Other / General Filipino Food,Nationwide / General
+Chicharong Pusit,3.8,0.02,0.4,0.22,Other / General Filipino Food,Nationwide / General
+Chicharong Hipon,4,0.02,0.38,0.26,Other / General Filipino Food,Nationwide / General
+Oxtail Kare-Kare,2.5,0.08,0.13,0.19,Ulam / Main Dish,Nationwide / General
+Seafood Kare-Kare,1.8,0.07,0.16,0.1,Ulam / Main Dish,Nationwide / General
+Vegetable Kare-Kare,1.4,0.1,0.04,0.08,Ulam / Main Dish,Nationwide / General
+Sinigang sa Miso,0.9,0.03,0.11,0.04,Ulam / Main Dish,Nationwide / General
+Sinigang sa Bayabas,0.8,0.05,0.1,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang sa Buko,1,0.06,0.1,0.04,Ulam / Main Dish,Nationwide / General
+Tinolang Isda,0.8,0.02,0.14,0.02,Ulam / Main Dish,Nationwide / General
+Tinolang Tahong,0.9,0.03,0.13,0.03,Ulam / Main Dish,Nationwide / General
+Tinolang Manok sa Sayote,0.9,0.03,0.15,0.03,Ulam / Main Dish,Nationwide / General
+Tinolang Manok sa Papaya,0.9,0.04,0.15,0.03,Ulam / Main Dish,Nationwide / General
+Suam na Mais,0.8,0.12,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Utan Bisaya,0.6,0.07,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Laswa,0.5,0.06,0.03,0.01,Other / General Filipino Food,Nationwide / General
+Linarang,1,0.03,0.14,0.04,Other / General Filipino Food,Nationwide / General
+Kansi,1.2,0.04,0.14,0.06,Other / General Filipino Food,Nationwide / General
+Binakol,1,0.04,0.15,0.03,Other / General Filipino Food,Nationwide / General
+Sinugba,2,0.01,0.23,0.1,Other / General Filipino Food,Nationwide / General
+Sinuglaw na Tuna,1.4,0.02,0.22,0.05,Other / General Filipino Food,Nationwide / General
+Piaparan,2,0.05,0.15,0.14,Other / General Filipino Food,Nationwide / General
+Pianggang,2.1,0.04,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Rendang Maranao,2.6,0.05,0.17,0.2,Other / General Filipino Food,Nationwide / General
+Pastil,1.8,0.18,0.1,0.06,Other / General Filipino Food,Nationwide / General
+Piyanggang Manok,2.1,0.04,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Tiyula Itum,1.4,0.03,0.15,0.07,Other / General Filipino Food,Mindanao
+Beef Kulma,2.2,0.06,0.16,0.14,Other / General Filipino Food,Nationwide / General
+Chicken Kulma,2,0.05,0.17,0.12,Other / General Filipino Food,Nationwide / General
+Satti,2.2,0.12,0.17,0.12,Other / General Filipino Food,Mindanao
+Puso (hanging rice),1.3,0.28,0.025,0.005,Rice / Noodles / Soup,Nationwide / General
+Garlic Rice,1.7,0.3,0.03,0.04,Rice / Noodles / Soup,Nationwide / General
+Java Rice,1.8,0.3,0.03,0.05,Rice / Noodles / Soup,Nationwide / General
+Fried Rice,1.8,0.29,0.03,0.06,Rice / Noodles / Soup,Nationwide / General
+Sinangag,1.7,0.3,0.03,0.05,Rice / Noodles / Soup,Nationwide / General
+Adobo Rice,1.9,0.28,0.05,0.07,Ulam / Main Dish,Nationwide / General
+Bagoong Rice,1.8,0.28,0.05,0.06,Rice / Noodles / Soup,Nationwide / General
+Seafood Fried Rice,1.9,0.27,0.07,0.07,Rice / Noodles / Soup,Nationwide / General
+Valenciana,1.8,0.3,0.05,0.06,Other / General Filipino Food,Nationwide / General
+Bringhe,1.9,0.28,0.05,0.08,Other / General Filipino Food,Pampanga
+Paella Filipina,1.9,0.27,0.07,0.07,Other / General Filipino Food,Nationwide / General
+Arroz Valenciana,1.8,0.3,0.05,0.06,Other / General Filipino Food,Nationwide / General
+Binalot,1.6,0.26,0.06,0.05,Other / General Filipino Food,Nationwide / General
+Tamales,2,0.22,0.06,0.11,Other / General Filipino Food,Nationwide / General
+Chicken Pastel,2.1,0.12,0.1,0.14,Other / General Filipino Food,Nationwide / General
+Sopas,1,0.12,0.04,0.04,Rice / Noodles / Soup,Nationwide / General
+Macaroni Sopas,1.1,0.14,0.04,0.05,Rice / Noodles / Soup,Nationwide / General
+Corned Beef Silog,1.9,0.22,0.09,0.08,Other / General Filipino Food,Nationwide / General
+Tapsilog,1.9,0.24,0.1,0.07,Other / General Filipino Food,Nationwide / General
+Longsilog,2.1,0.23,0.09,0.1,Other / General Filipino Food,Nationwide / General
+Bangsilog,1.8,0.24,0.11,0.06,Other / General Filipino Food,Nationwide / General
+Hotsilog,2,0.23,0.09,0.09,Other / General Filipino Food,Nationwide / General
+Tocilog,2.2,0.25,0.09,0.11,Other / General Filipino Food,Nationwide / General
+Spamsilog,2.4,0.23,0.09,0.14,Other / General Filipino Food,Nationwide / General
+Chicksilog,2,0.23,0.12,0.08,Other / General Filipino Food,Nationwide / General
+Porksilog,2.3,0.23,0.1,0.13,Other / General Filipino Food,Nationwide / General
+Liemposilog,2.6,0.22,0.11,0.17,Other / General Filipino Food,Nationwide / General
+Adosilog,2.1,0.23,0.12,0.1,Other / General Filipino Food,Nationwide / General
+Dangsilog,2,0.23,0.13,0.09,Other / General Filipino Food,Nationwide / General
+Sisigsilog,2.7,0.23,0.12,0.2,Ulam / Main Dish,Pampanga
+Hamsilog,2.1,0.23,0.09,0.1,Other / General Filipino Food,Nationwide / General
+Cornsilog,1.9,0.24,0.08,0.08,Other / General Filipino Food,Nationwide / General
+Embusilog,2.2,0.23,0.1,0.12,Other / General Filipino Food,Nationwide / General
+Chorisilog,2.3,0.23,0.09,0.13,Other / General Filipino Food,Nationwide / General
+Tuyosilog,2.1,0.23,0.12,0.1,Other / General Filipino Food,Nationwide / General
+Daingsilog,2,0.23,0.13,0.09,Ulam / Main Dish,Nationwide / General
+Bacsilog,2,0.23,0.1,0.1,Other / General Filipino Food,Nationwide / General
+Sisilog,2.7,0.23,0.12,0.2,Other / General Filipino Food,Nationwide / General
+Tosilog,2.2,0.25,0.09,0.11,Other / General Filipino Food,Nationwide / General
+Lumpsilog,2.1,0.23,0.1,0.1,Other / General Filipino Food,Nationwide / General
+Bangus Belly,2.4,0,0.22,0.18,Ulam / Main Dish,Nationwide / General
+Grilled Bangus Belly,2.3,0,0.23,0.16,Ulam / Main Dish,Nationwide / General
+Stuffed Bangus,2.1,0.03,0.2,0.13,Ulam / Main Dish,Nationwide / General
+Daing na Galunggong,1.9,0.01,0.26,0.08,Ulam / Main Dish,Nationwide / General
+Fried Galunggong,2.1,0.02,0.24,0.12,Other / General Filipino Food,Nationwide / General
+Paksiw na Galunggong,1.2,0.02,0.18,0.05,Ulam / Main Dish,Nationwide / General
+Fried Tilapia,1.9,0.02,0.23,0.1,Ulam / Main Dish,Nationwide / General
+Grilled Tilapia,1.5,0,0.26,0.05,Ulam / Main Dish,Nationwide / General
+Sweet and Sour Tilapia,1.7,0.1,0.18,0.07,Ulam / Main Dish,Nationwide / General
+Fried Bangus,2.2,0.02,0.22,0.14,Ulam / Main Dish,Nationwide / General
+Grilled Bangus,1.8,0,0.25,0.07,Ulam / Main Dish,Nationwide / General
+Fried Hito,2.1,0.02,0.23,0.12,Other / General Filipino Food,Nationwide / General
+Inihaw na Tilapia,1.5,0,0.26,0.05,Ulam / Main Dish,Nationwide / General
+Inihaw na Bangus Belly,2.3,0,0.23,0.16,Ulam / Main Dish,Nationwide / General
+Inihaw na Tuna Belly,2.4,0,0.25,0.17,Other / General Filipino Food,Nationwide / General
+Grilled Tuna Panga,2.1,0,0.26,0.12,Other / General Filipino Food,Nationwide / General
+Inihaw na Maya-Maya,1.5,0,0.26,0.05,Other / General Filipino Food,Nationwide / General
+Inihaw na Lapu-Lapu,1.4,0,0.27,0.04,Other / General Filipino Food,Nationwide / General
+Inihaw na Tambakol,1.7,0,0.26,0.07,Other / General Filipino Food,Nationwide / General
+Inihaw na Galunggong,1.6,0,0.25,0.07,Other / General Filipino Food,Nationwide / General
+Inihaw na Tahong,1.1,0.02,0.16,0.03,Kakanin / Dessert,Nationwide / General
+Steamed Tahong,0.9,0.02,0.17,0.02,Kakanin / Dessert,Nationwide / General
+Tahong Soup,0.4,0.03,0.06,0.01,Kakanin / Dessert,Nationwide / General
+Ginataang Tahong,1.8,0.05,0.15,0.12,Kakanin / Dessert,Nationwide / General
+Adobong Tahong,1.2,0.03,0.17,0.05,Ulam / Main Dish,Nationwide / General
+Tahong Kilawin,1,0.02,0.16,0.03,Kakanin / Dessert,Nationwide / General
+Buttered Tahong,1.9,0.03,0.15,0.14,Kakanin / Dessert,Nationwide / General
+Ginisang Tahong,1.2,0.03,0.16,0.05,Kakanin / Dessert,Nationwide / General
+Adobong Hipon,1.1,0.03,0.2,0.03,Ulam / Main Dish,Nationwide / General
+Buttered Garlic Shrimp,2,0.02,0.2,0.15,Other / General Filipino Food,Nationwide / General
+Camaron Rebosado,2.4,0.18,0.12,0.14,Other / General Filipino Food,Nationwide / General
+Sugpo sa Gata,2,0.04,0.18,0.15,Other / General Filipino Food,Nationwide / General
+Sinigang na Sugpo,0.8,0.02,0.17,0.02,Ulam / Main Dish,Nationwide / General
+Sinigang na Ulo ng Salmon,1.4,0.02,0.13,0.09,Ulam / Main Dish,Nationwide / General
+Sinigang na Maya-Maya,0.8,0.02,0.17,0.02,Ulam / Main Dish,Nationwide / General
+Sinigang na Lapu-Lapu,0.75,0.02,0.18,0.015,Ulam / Main Dish,Nationwide / General
+Sinigang na Tanigue,0.85,0.02,0.18,0.025,Ulam / Main Dish,Nationwide / General
+Ginataang Alimasag sa Kalabasa,2,0.06,0.15,0.14,Other / General Filipino Food,Nationwide / General
+Ginataang Curacha,2.1,0.04,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Curacha alavar,2.2,0.05,0.17,0.16,Other / General Filipino Food,Nationwide / General
+Rellenong Alimasag,2,0.04,0.17,0.13,Other / General Filipino Food,Nationwide / General
+Crab Omelet,1.9,0.03,0.13,0.14,Other / General Filipino Food,Nationwide / General
+Alimasag sa Gata,2,0.04,0.16,0.15,Other / General Filipino Food,Nationwide / General
+Steamed Alimasag,1,0,0.2,0.03,Other / General Filipino Food,Nationwide / General
+Garlic Crab,1.6,0.02,0.19,0.09,Other / General Filipino Food,Nationwide / General
+Baked Tahong,1.8,0.03,0.15,0.12,Kakanin / Dessert,Nationwide / General
+Stuffed Squid,1.7,0.05,0.18,0.09,Other / General Filipino Food,Nationwide / General
+Calamares,2.2,0.16,0.15,0.12,Other / General Filipino Food,Nationwide / General
+Fried Squid Rings,2.3,0.17,0.14,0.13,Other / General Filipino Food,Nationwide / General
+Adobong Hito,1.8,0.03,0.22,0.09,Ulam / Main Dish,Nationwide / General
+Adobong Hipon sa Gata,1.9,0.04,0.18,0.13,Ulam / Main Dish,Nationwide / General
+Ginisang Dilis,2.8,0.02,0.4,0.1,Other / General Filipino Food,Nationwide / General
+Adobong Dilis,2.7,0.03,0.38,0.1,Ulam / Main Dish,Nationwide / General
+Fried Dilis,3.1,0.02,0.45,0.12,Other / General Filipino Food,Nationwide / General
+Crispy Dilis,3.5,0.08,0.35,0.18,Other / General Filipino Food,Nationwide / General
+Ginisang Sardinas,1.2,0.04,0.12,0.06,Other / General Filipino Food,Nationwide / General
+Sardinas Misua,1,0.1,0.07,0.04,Other / General Filipino Food,Nationwide / General
+Misua Patola,0.7,0.1,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Misua with Meatballs,1.2,0.1,0.07,0.05,Other / General Filipino Food,Nationwide / General
+Misua Soup,0.6,0.08,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Almondigas,1.1,0.08,0.08,0.05,Other / General Filipino Food,Nationwide / General
+Bola-Bola Soup,1,0.07,0.08,0.04,Other / General Filipino Food,Nationwide / General
+Chicken Sopas,1.1,0.13,0.05,0.05,Rice / Noodles / Soup,Nationwide / General
+Crab and Corn Soup,0.9,0.1,0.05,0.03,Other / General Filipino Food,Nationwide / General
+Creamy Corn Soup,1,0.13,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Upo Soup,0.5,0.06,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Nilagang Baboy,1.1,0.03,0.13,0.06,Ulam / Main Dish,Nationwide / General
+Nilagang Manok,0.9,0.02,0.15,0.03,Ulam / Main Dish,Nationwide / General
+Nilagang Buntot,1.6,0.02,0.12,0.11,Ulam / Main Dish,Nationwide / General
+Nilagang Mais,0.8,0.13,0.03,0.02,Ulam / Main Dish,Nationwide / General
+Sinabawang Gulay,0.5,0.07,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Monggo Soup,1.1,0.13,0.06,0.03,Other / General Filipino Food,Nationwide / General
+Tinolang Tahong,0.9,0.03,0.13,0.03,Ulam / Main Dish,Nationwide / General
+Tinolang Bangus,0.9,0.02,0.15,0.03,Ulam / Main Dish,Nationwide / General
+Pakbet Ilocano,0.9,0.08,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Pinakbet Tagalog,1,0.09,0.04,0.06,Ulam / Main Dish,Nationwide / General
+Ginisang Kalabasa,0.9,0.1,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Sitaw at Kalabasa,1,0.1,0.03,0.05,Other / General Filipino Food,Nationwide / General
+Ginisang Talbos ng Kamote,0.8,0.06,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Malunggay,0.8,0.05,0.04,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Puso ng Saging,0.9,0.08,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Labanos,0.7,0.06,0.02,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Baguio Beans,0.8,0.07,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Okra,0.8,0.07,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Talong,1,0.07,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Ginisang Corned Beef,2,0.05,0.12,0.15,Other / General Filipino Food,Nationwide / General
+Corned Beef with Potato,1.6,0.1,0.1,0.1,Other / General Filipino Food,Nationwide / General
+Corned Beef with Cabbage,1.4,0.07,0.1,0.09,Other / General Filipino Food,Nationwide / General
+Ginisang Sardinas with Misua,1.1,0.1,0.07,0.05,Other / General Filipino Food,Nationwide / General
+Ginisang Sardinas with Sotanghon,1.2,0.14,0.07,0.04,Other / General Filipino Food,Nationwide / General
+Adobong Sitaw at Baboy,1.7,0.06,0.13,0.1,Ulam / Main Dish,Nationwide / General
+Adobong Sitaw at Hipon,1.3,0.06,0.14,0.05,Ulam / Main Dish,Nationwide / General
+Adobong Kangkong with Tofu,1.1,0.05,0.06,0.07,Ulam / Main Dish,Nationwide / General
+Adobong Talong,1.2,0.07,0.03,0.09,Ulam / Main Dish,Nationwide / General
+Adobong Puso ng Saging,1.1,0.08,0.04,0.06,Ulam / Main Dish,Nationwide / General
+Adobong Baboy sa Dilaw,2.3,0.03,0.16,0.18,Ulam / Main Dish,Nationwide / General
+Adobong Atay at Balunbalunan,1.7,0.04,0.19,0.08,Ulam / Main Dish,Nationwide / General
+Adobong Manok sa Puti,1.9,0.02,0.21,0.1,Ulam / Main Dish,Nationwide / General
+White Adobo,1.9,0.02,0.21,0.1,Ulam / Main Dish,Nationwide / General
+Adobong Puti,1.9,0.02,0.21,0.1,Ulam / Main Dish,Nationwide / General
+Chicken Pastil,1.8,0.18,0.1,0.06,Other / General Filipino Food,Nationwide / General
+Beef Pastil,2,0.17,0.11,0.08,Other / General Filipino Food,Nationwide / General
+Tuna Pastil,1.6,0.18,0.11,0.04,Other / General Filipino Food,Nationwide / General
+Chicken Pianggang,2.1,0.04,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Beef Pianggang,2.4,0.04,0.17,0.18,Other / General Filipino Food,Nationwide / General
+Beef Rendang,2.6,0.05,0.17,0.2,Other / General Filipino Food,Nationwide / General
+Chicken Rendang,2.2,0.04,0.17,0.16,Other / General Filipino Food,Nationwide / General
+Beef Kulma,2.2,0.06,0.16,0.14,Other / General Filipino Food,Nationwide / General
+Chicken Kulma sa Gata,2.1,0.05,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Chicken Pyanggang,2.1,0.04,0.17,0.15,Other / General Filipino Food,Mindanao
+Chicken Kurma,2.1,0.05,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Beef Kurma,2.3,0.06,0.16,0.17,Other / General Filipino Food,Nationwide / General
+Beef Sinina,1.9,0.04,0.16,0.12,Other / General Filipino Food,Nationwide / General
+Beef Randang,2.6,0.05,0.17,0.2,Other / General Filipino Food,Nationwide / General
+Piyalam,1.9,0.05,0.12,0.13,Other / General Filipino Food,Nationwide / General
+Dodol,3.4,0.6,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Daral,2.6,0.42,0.04,0.09,Other / General Filipino Food,Nationwide / General
+Dudol,3.4,0.6,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Wajik,3.1,0.58,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Tiyateg,2.8,0.45,0.04,0.1,Other / General Filipino Food,Nationwide / General
+Panyalam,2.7,0.4,0.04,0.11,Other / General Filipino Food,Nationwide / General
+Lokot-Lokot,3.2,0.48,0.03,0.13,Other / General Filipino Food,Nationwide / General
+Baulo,2.6,0.4,0.05,0.09,Other / General Filipino Food,Nationwide / General
+Tiyula Itum na Baka,1.5,0.03,0.15,0.08,Other / General Filipino Food,Mindanao
+Sinina,1.9,0.04,0.16,0.12,Other / General Filipino Food,Nationwide / General
+Ginataang Tulingan,1.8,0.04,0.16,0.12,Other / General Filipino Food,Nationwide / General
+Sinaing na Tulingan,1.3,0.01,0.22,0.05,Other / General Filipino Food,Nationwide / General
+Sinaing na Tambakol,1.4,0.01,0.23,0.05,Other / General Filipino Food,Nationwide / General
+Paksiw na Tulingan,1.2,0.02,0.21,0.04,Ulam / Main Dish,Nationwide / General
+Fried Tulingan,2.1,0.02,0.23,0.12,Other / General Filipino Food,Nationwide / General
+Inihaw na Tulingan,1.5,0,0.24,0.06,Other / General Filipino Food,Nationwide / General
+Adobong Tulingan,1.5,0.02,0.22,0.06,Ulam / Main Dish,Nationwide / General
+Sinaing na Isda,1.3,0.01,0.22,0.05,Other / General Filipino Food,Nationwide / General
+Inun-unan,1.2,0.02,0.2,0.04,Other / General Filipino Food,Nationwide / General
+Pinamalhan,1.3,0.02,0.2,0.05,Other / General Filipino Food,Nationwide / General
+Linarang na Isda,1,0.03,0.16,0.03,Other / General Filipino Food,Nationwide / General
+Tinumis,1.8,0.04,0.14,0.12,Other / General Filipino Food,Nationwide / General
+Sinampalukang Baboy,1.2,0.03,0.13,0.06,Other / General Filipino Food,Nationwide / General
+Sinampalukang Isda,0.8,0.02,0.16,0.02,Other / General Filipino Food,Nationwide / General
+Sinampalukang Hipon,0.8,0.02,0.17,0.02,Other / General Filipino Food,Nationwide / General
+Ginataang Labong,1.4,0.06,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Ginisang Labong,0.8,0.05,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Ensaladang Pako,0.6,0.05,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ensaladang Talbos ng Kamote,0.7,0.06,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ensaladang Lato,0.4,0.03,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Kilawing Labanos,0.6,0.07,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Kilawing Puso ng Saging,0.9,0.08,0.03,0.05,Other / General Filipino Food,Nationwide / General
+Burong Kanin,1.1,0.18,0.02,0.01,Rice / Noodles / Soup,Nationwide / General
+Burong Mustasa,0.3,0.04,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Burong Talangka,2,0.05,0.18,0.14,Other / General Filipino Food,Nationwide / General
+Bagoong Alamang,1.5,0.05,0.18,0.08,Other / General Filipino Food,Nationwide / General
+Bagoong Isda,1.4,0.03,0.2,0.06,Other / General Filipino Food,Nationwide / General
+Bagoong Monamon,1.3,0.03,0.19,0.05,Other / General Filipino Food,Nationwide / General
+Bagoong Terong,1.3,0.04,0.17,0.06,Other / General Filipino Food,Nationwide / General
+Fresh Lumpia Ubod,1.5,0.22,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Lumpiang Shanghai with Cheese,3.3,0.18,0.12,0.24,Other / General Filipino Food,Nationwide / General
+Cheese Sticks,3.2,0.22,0.09,0.23,Other / General Filipino Food,Nationwide / General
+Dynamite Lumpia,2.8,0.16,0.08,0.21,Other / General Filipino Food,Nationwide / General
+Shanghai Rolls,3.1,0.18,0.12,0.22,Other / General Filipino Food,Nationwide / General
+Fried Lumpia,2.5,0.22,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Lumpiang Baboy,2.7,0.18,0.11,0.18,Other / General Filipino Food,Nationwide / General
+Lumpiang Hipon,2.4,0.18,0.12,0.13,Other / General Filipino Food,Nationwide / General
+Lumpiang Keso,3.2,0.2,0.1,0.22,Other / General Filipino Food,Nationwide / General
+Lumpiang Kamote,2.6,0.36,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Lumpiang Saging,2.7,0.41,0.02,0.11,Other / General Filipino Food,Nationwide / General
+Lumpiang Mais,2.5,0.35,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Lumpiang Tokwa,2.3,0.15,0.1,0.15,Other / General Filipino Food,Nationwide / General
+Ukoy na Hipon,2.2,0.2,0.1,0.12,Other / General Filipino Food,Nationwide / General
+Ukoy na Gulay,2,0.22,0.06,0.1,Other / General Filipino Food,Nationwide / General
+Ukoy na Kalabasa,2.1,0.23,0.06,0.11,Other / General Filipino Food,Nationwide / General
+Tortang Sardinas,1.8,0.04,0.14,0.12,Ulam / Main Dish,Nationwide / General
+Tortang Corned Beef,2.2,0.05,0.13,0.16,Ulam / Main Dish,Nationwide / General
+Tortang Sayote,1.2,0.07,0.05,0.08,Ulam / Main Dish,Nationwide / General
+Tortang Kalabasa,1.3,0.09,0.04,0.08,Ulam / Main Dish,Nationwide / General
+Tortang Ampalaya,1.2,0.06,0.05,0.08,Ulam / Main Dish,Nationwide / General
+Tortang Okra,1.3,0.07,0.05,0.08,Ulam / Main Dish,Nationwide / General
+Tortang Tuna,1.7,0.03,0.16,0.1,Ulam / Main Dish,Nationwide / General
+Tortang Galunggong,1.8,0.02,0.17,0.11,Ulam / Main Dish,Nationwide / General
+Tortang Dilis,2,0.02,0.18,0.13,Ulam / Main Dish,Nationwide / General
+Tortang Bangus,2,0.03,0.18,0.13,Ulam / Main Dish,Nationwide / General
+Tortang Hipon,1.7,0.03,0.15,0.1,Ulam / Main Dish,Nationwide / General
+Tortang Alimasag sa Gata,2.1,0.04,0.15,0.15,Ulam / Main Dish,Nationwide / General
+Tortang Chicken,2,0.03,0.18,0.12,Ulam / Main Dish,Nationwide / General
+Tortang Pork,2.3,0.04,0.16,0.17,Ulam / Main Dish,Nationwide / General
+Chorizo de Cebu,3.2,0.12,0.13,0.24,Other / General Filipino Food,Visayas
+Chorizo de Vigan,3.1,0.1,0.14,0.23,Other / General Filipino Food,Nationwide / General
+Lucban Longganisa,3,0.08,0.15,0.22,Ulam / Main Dish,Nationwide / General
+Alaminos Longganisa,3.1,0.07,0.15,0.23,Ulam / Main Dish,Nationwide / General
+Tuguegarao Longganisa,3,0.08,0.14,0.22,Ulam / Main Dish,Nationwide / General
+Cabanatuan Longganisa,3.1,0.09,0.14,0.23,Ulam / Main Dish,Nationwide / General
+Pampanga Longganisa,3.2,0.1,0.14,0.24,Ulam / Main Dish,Pampanga
+Batangas Longganisa,3,0.07,0.15,0.22,Ulam / Main Dish,Nationwide / General
+Guinobatan Longganisa,3.1,0.09,0.14,0.23,Ulam / Main Dish,Nationwide / General
+Garlic Longganisa,3.1,0.08,0.15,0.23,Ulam / Main Dish,Nationwide / General
+Hamonado Longganisa,3.3,0.15,0.14,0.24,Ulam / Main Dish,Nationwide / General
+Skinless Longganisa,3,0.1,0.15,0.21,Ulam / Main Dish,Nationwide / General
+Pork Tocino,2.9,0.16,0.13,0.18,Other / General Filipino Food,Nationwide / General
+Chicken Tocino,2.4,0.15,0.17,0.12,Other / General Filipino Food,Nationwide / General
+Beef Tocino,2.8,0.15,0.15,0.18,Other / General Filipino Food,Nationwide / General
+Carabao Tocino,2.6,0.14,0.17,0.14,Other / General Filipino Food,Nationwide / General
+Beef Tapa,2.2,0.08,0.22,0.11,Ulam / Main Dish,Nationwide / General
+Chicken Tapa,2,0.08,0.23,0.09,Ulam / Main Dish,Nationwide / General
+Carabeef Tapa,2.1,0.07,0.23,0.1,Ulam / Main Dish,Nationwide / General
+Pork Tapa,2.4,0.1,0.19,0.15,Ulam / Main Dish,Nationwide / General
+Tapang Kabayo,2,0.06,0.22,0.1,Ulam / Main Dish,Nationwide / General
+Tapang Usa,2,0.06,0.23,0.09,Ulam / Main Dish,Nationwide / General
+Hamonada,2.7,0.15,0.17,0.17,Other / General Filipino Food,Nationwide / General
+Sweet Ham,2.8,0.16,0.16,0.18,Other / General Filipino Food,Nationwide / General
+Jamon,2.6,0.05,0.2,0.17,Other / General Filipino Food,Nationwide / General
+Chicken Hamonado,2.3,0.14,0.2,0.12,Other / General Filipino Food,Nationwide / General
+Pork Hamonado,2.8,0.15,0.17,0.18,Other / General Filipino Food,Nationwide / General
+Sweet Pork Asado,2.6,0.12,0.18,0.17,Other / General Filipino Food,Nationwide / General
+Pork Asado sa Gata,3,0.05,0.16,0.24,Other / General Filipino Food,Nationwide / General
+Chicken Asado,2.2,0.07,0.21,0.11,Other / General Filipino Food,Nationwide / General
+Asadong Dila,2.4,0.04,0.17,0.18,Other / General Filipino Food,Nationwide / General
+Lengua Estofado,2.8,0.05,0.17,0.22,Other / General Filipino Food,Nationwide / General
+Lengua con Champignon,2.9,0.06,0.17,0.23,Other / General Filipino Food,Nationwide / General
+Estofadong Baka,2.2,0.05,0.18,0.14,Other / General Filipino Food,Nationwide / General
+Estofadong Baboy,2.6,0.06,0.17,0.19,Other / General Filipino Food,Nationwide / General
+Estofadong Manok,2,0.05,0.2,0.1,Other / General Filipino Food,Nationwide / General
+Ox Tripe Kare-Kare,2.2,0.07,0.14,0.16,Ulam / Main Dish,Nationwide / General
+Kare-Kareng Gulay,1.3,0.1,0.04,0.07,Ulam / Main Dish,Nationwide / General
+Kare-Kareng Bagnet,3.2,0.06,0.15,0.26,Ulam / Main Dish,Ilocos Region
+Kare-Kareng Seafood,1.8,0.06,0.16,0.1,Ulam / Main Dish,Nationwide / General
+Crispy Kare-Kare,3,0.07,0.15,0.23,Ulam / Main Dish,Nationwide / General
+Lechon Belly,3.8,0.01,0.19,0.34,Ulam / Main Dish,Nationwide / General
+Lechon Manok,2.4,0,0.26,0.14,Ulam / Main Dish,Nationwide / General
+Lechon Baka,3,0.01,0.22,0.24,Ulam / Main Dish,Nationwide / General
+Lechon Baboy,3.5,0.01,0.18,0.3,Ulam / Main Dish,Nationwide / General
+Lechon de Cebu,3.6,0.01,0.18,0.32,Ulam / Main Dish,Visayas
+Cansi,1.2,0.03,0.14,0.06,Other / General Filipino Food,Nationwide / General
+Binagoongan Baboy,2.6,0.04,0.15,0.22,Other / General Filipino Food,Nationwide / General
+Binagoongang Talong,1.4,0.07,0.04,0.1,Other / General Filipino Food,Nationwide / General
+Binagoongang Baboy sa Gata,2.8,0.04,0.15,0.24,Other / General Filipino Food,Nationwide / General
+Binagoongang Sitaw,1.5,0.07,0.05,0.1,Other / General Filipino Food,Nationwide / General
+Pork Binagoongan,2.6,0.04,0.15,0.22,Other / General Filipino Food,Nationwide / General
+Chicken Binagoongan,2,0.03,0.18,0.13,Other / General Filipino Food,Nationwide / General
+Bicol Express with Seafood,1.9,0.04,0.16,0.13,Ulam / Main Dish,Bicol Region
+Bicol Express with Tuna,1.8,0.04,0.17,0.12,Ulam / Main Dish,Bicol Region
+Bicol Express with Shrimp,1.8,0.04,0.17,0.12,Ulam / Main Dish,Bicol Region
+Ginataang Santol,1.5,0.07,0.03,0.11,Other / General Filipino Food,Nationwide / General
+Ginataang Puso ng Saging,1.5,0.07,0.04,0.11,Other / General Filipino Food,Nationwide / General
+Ginataang Sigarilyas,1.4,0.06,0.04,0.1,Other / General Filipino Food,Nationwide / General
+Ginataang Papaya,1.4,0.09,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Ginataang Ampalaya,1.4,0.06,0.05,0.1,Other / General Filipino Food,Nationwide / General
+Ginataang Dilis,2,0.03,0.2,0.14,Other / General Filipino Food,Nationwide / General
+Ginataang Galunggong,1.8,0.03,0.19,0.12,Other / General Filipino Food,Nationwide / General
+Ginataang Tilapia,1.8,0.03,0.19,0.12,Ulam / Main Dish,Nationwide / General
+Ginataang Bangus,2,0.03,0.2,0.14,Ulam / Main Dish,Nationwide / General
+Ginataang Salmon Head,2.2,0.03,0.15,0.18,Other / General Filipino Food,Nationwide / General
+Ginataang Tulingan,1.8,0.04,0.16,0.12,Other / General Filipino Food,Nationwide / General
+Ginataang Langka with Crabs,1.9,0.07,0.14,0.13,Other / General Filipino Food,Nationwide / General
+Ginataang Langka with Dilis,1.7,0.07,0.15,0.11,Other / General Filipino Food,Nationwide / General
+Ginataang Langka with Pork,2.2,0.07,0.12,0.17,Other / General Filipino Food,Nationwide / General
+Ginataang Kalabasa at Sitaw,1.3,0.1,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Ginataang Gulay with Shrimp,1.4,0.08,0.08,0.09,Other / General Filipino Food,Nationwide / General
+Ginataang Alimasag with Malunggay,1.9,0.04,0.15,0.14,Other / General Filipino Food,Nationwide / General
+Binakol na Manok,1,0.04,0.15,0.03,Other / General Filipino Food,Nationwide / General
+Chicken Binakol sa Buko,1.2,0.06,0.15,0.04,Beverage,Nationwide / General
+"Kadyos, Baboy at Langka (KBL)",1.4,0.05,0.13,0.07,Other / General Filipino Food,Nationwide / General
+Linarang na Baboy,1.6,0.03,0.13,0.1,Other / General Filipino Food,Nationwide / General
+Linarang na Baka,1.5,0.03,0.14,0.09,Other / General Filipino Food,Nationwide / General
+Sinugbang Baboy,2.7,0.01,0.2,0.21,Other / General Filipino Food,Nationwide / General
+Sinugbang Isda,1.6,0,0.25,0.06,Other / General Filipino Food,Nationwide / General
+Sinugbang Liempo,3.2,0.01,0.18,0.27,Other / General Filipino Food,Nationwide / General
+Binakhaw,1.2,0.03,0.1,0.07,Other / General Filipino Food,Nationwide / General
+Law-uy,0.5,0.07,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Nilasing na Hipon,2,0.12,0.16,0.1,Other / General Filipino Food,Nationwide / General
+Kinamatisang Baboy,1.4,0.03,0.13,0.08,Other / General Filipino Food,Nationwide / General
+Kinamatisang Manok,1.1,0.02,0.15,0.04,Other / General Filipino Food,Nationwide / General
+Kinamatisang Isda,0.9,0.02,0.17,0.03,Other / General Filipino Food,Nationwide / General
+Kinamatisang Baka,1.5,0.03,0.15,0.09,Other / General Filipino Food,Nationwide / General
+Sinabawang Tahong,0.4,0.03,0.06,0.01,Kakanin / Dessert,Nationwide / General
+Sinabawang Tulya,0.4,0.02,0.07,0.01,Other / General Filipino Food,Nationwide / General
+Tulya Soup,0.4,0.02,0.07,0.01,Other / General Filipino Food,Nationwide / General
+Ginisang Tulya,1,0.03,0.13,0.04,Other / General Filipino Food,Nationwide / General
+Adobong Tulya,1.1,0.02,0.14,0.05,Ulam / Main Dish,Nationwide / General
+Kilawing Tahong,0.9,0.02,0.16,0.03,Kakanin / Dessert,Nationwide / General
+Kinilaw na Lato,0.6,0.03,0.04,0.02,Other / General Filipino Food,Nationwide / General
+Kinilaw na Puso ng Saging,0.8,0.08,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Binakol na Isda,0.9,0.03,0.15,0.03,Other / General Filipino Food,Nationwide / General
+Sinabawang Ulo ng Isda,0.9,0.02,0.12,0.04,Other / General Filipino Food,Nationwide / General
+Ulo ng Salmon sa Miso,1.5,0.03,0.14,0.09,Other / General Filipino Food,Nationwide / General
+Fish Escabeche,1.6,0.1,0.14,0.07,Other / General Filipino Food,Nationwide / General
+Sweet and Sour Bangus,1.7,0.1,0.18,0.08,Ulam / Main Dish,Nationwide / General
+Sweet and Sour Maya-Maya,1.6,0.1,0.18,0.07,Other / General Filipino Food,Nationwide / General
+Sweet and Sour Tilapia Fillet,1.7,0.12,0.16,0.08,Ulam / Main Dish,Nationwide / General
+Crispy Tilapia,2.4,0.03,0.23,0.15,Ulam / Main Dish,Nationwide / General
+Crispy Bangus,2.5,0.03,0.22,0.17,Ulam / Main Dish,Nationwide / General
+Crispy Hito,2.5,0.03,0.23,0.16,Other / General Filipino Food,Nationwide / General
+Crispy Tilapia Fillet,2.3,0.12,0.2,0.13,Ulam / Main Dish,Nationwide / General
+Crispy Pusit,2.4,0.15,0.18,0.14,Other / General Filipino Food,Nationwide / General
+Crispy Hipon,2.5,0.16,0.17,0.15,Other / General Filipino Food,Nationwide / General
+Crispy Alimasag,2.2,0.08,0.22,0.12,Other / General Filipino Food,Nationwide / General
+Crispy Tahong,2.3,0.15,0.16,0.14,Kakanin / Dessert,Nationwide / General
+Fried Tulya,2,0.1,0.18,0.11,Other / General Filipino Food,Nationwide / General
+Adobong Saluyot,0.8,0.05,0.03,0.04,Ulam / Main Dish,Nationwide / General
+Ginisang Saluyot,0.8,0.05,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Dinengdeng nga Saluyot,0.5,0.06,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Ginisang Kulitis,0.7,0.05,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Alugbati,0.7,0.05,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Sigarilyas,0.8,0.06,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Patani,1.1,0.12,0.05,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Kadyos,1.2,0.14,0.06,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Talbos ng Sayote,0.7,0.06,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Talbos ng Kalabasa,0.7,0.06,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Pako,0.7,0.05,0.03,0.03,Other / General Filipino Food,Nationwide / General
+Ginataang Pako,1.4,0.06,0.04,0.1,Other / General Filipino Food,Nationwide / General
+Ginisang Munggo with Chicharon,1.5,0.14,0.08,0.08,Other / General Filipino Food,Nationwide / General
+Monggo with Tinapa,1.3,0.13,0.09,0.05,Other / General Filipino Food,Nationwide / General
+Monggo with Hipon,1.2,0.13,0.08,0.04,Other / General Filipino Food,Nationwide / General
+Monggo with Malunggay,1.1,0.13,0.06,0.03,Other / General Filipino Food,Nationwide / General
+Monggo with Ampalaya,1.1,0.12,0.06,0.03,Other / General Filipino Food,Nationwide / General
+Monggo with Dilis,1.4,0.13,0.1,0.05,Other / General Filipino Food,Nationwide / General
+Paksiw na Galunggong sa Gata,1.6,0.03,0.18,0.1,Ulam / Main Dish,Nationwide / General
+Paksiw na Tilapia,1,0.02,0.17,0.04,Ulam / Main Dish,Nationwide / General
+Paksiw na Maya-Maya,0.9,0.02,0.18,0.03,Ulam / Main Dish,Nationwide / General
+Paksiw na Tanigue,1,0.02,0.19,0.04,Ulam / Main Dish,Nationwide / General
+Paksiw na Hito,1.2,0.02,0.18,0.05,Ulam / Main Dish,Nationwide / General
+Paksiw na Dalag,1,0.02,0.17,0.04,Ulam / Main Dish,Nationwide / General
+Paksiw na Bangus Belly,2,0,0.18,0.14,Ulam / Main Dish,Nationwide / General
+Sinaing na Galunggong,1.3,0.01,0.22,0.05,Other / General Filipino Food,Nationwide / General
+Sinaing na Bangus,1.7,0.01,0.22,0.1,Ulam / Main Dish,Nationwide / General
+Sinaing na Tamban,1.2,0.01,0.21,0.04,Other / General Filipino Food,Nationwide / General
+Sinaing na Galunggong sa Kamias,1.3,0.02,0.21,0.05,Other / General Filipino Food,Nationwide / General
+Sinigang na Salmon Belly,1.5,0.02,0.15,0.1,Ulam / Main Dish,Nationwide / General
+Sinigang na Pampano,1,0.02,0.18,0.04,Ulam / Main Dish,Nationwide / General
+Sinigang na Dalag,0.9,0.02,0.17,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang na Hito,1,0.02,0.18,0.04,Ulam / Main Dish,Nationwide / General
+Sinigang na Kanduli,0.9,0.02,0.17,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang na Tulya,0.5,0.02,0.08,0.01,Ulam / Main Dish,Nationwide / General
+Sinigang na Tahong,0.5,0.02,0.08,0.01,Ulam / Main Dish,Nationwide / General
+Sinigang na Alimasag,0.8,0.02,0.15,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang na Pompano,1,0.02,0.18,0.04,Ulam / Main Dish,Nationwide / General
+Sinigang sa Sampalok,0.8,0.03,0.12,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang sa Kamias,0.8,0.03,0.12,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang sa Santol,0.9,0.04,0.12,0.03,Ulam / Main Dish,Nationwide / General
+Sinigang sa Bayabas na Baboy,1.4,0.06,0.13,0.08,Ulam / Main Dish,Nationwide / General
+Sinigang sa Miso na Salmon,1.5,0.03,0.15,0.1,Ulam / Main Dish,Nationwide / General
+Pork Estofado,2.6,0.06,0.17,0.19,Other / General Filipino Food,Nationwide / General
+Chicken Estofado,2,0.05,0.2,0.1,Other / General Filipino Food,Nationwide / General
+Beef Estofado,2.3,0.05,0.18,0.15,Other / General Filipino Food,Nationwide / General
+Pata Estofado,3,0.05,0.15,0.25,Other / General Filipino Food,Nationwide / General
+Ham Hock Estofado,3.1,0.05,0.16,0.26,Other / General Filipino Food,Nationwide / General
+Pork Humba with Pineapple,3,0.1,0.16,0.24,Other / General Filipino Food,Nationwide / General
+Visayan Humba,3,0.08,0.16,0.24,Other / General Filipino Food,Nationwide / General
+Cebu Humba,3.1,0.09,0.16,0.25,Other / General Filipino Food,Visayas
+Braised Pork Hamonado,2.8,0.14,0.17,0.19,Other / General Filipino Food,Nationwide / General
+Pork Steak with Onions,2.5,0.04,0.18,0.19,Other / General Filipino Food,Nationwide / General
+Beef Steak with Calamansi,2.2,0.04,0.2,0.14,Other / General Filipino Food,Nationwide / General
+Chicken Bistek,1.9,0.04,0.21,0.1,Other / General Filipino Food,Nationwide / General
+Tuna Bistek,1.5,0.03,0.2,0.07,Other / General Filipino Food,Nationwide / General
+Bangus Bistek,1.8,0.03,0.19,0.1,Ulam / Main Dish,Nationwide / General
+Pork Steak sa Kamatis,2.4,0.05,0.17,0.18,Other / General Filipino Food,Nationwide / General
+Kalderetang Baboy,2.3,0.06,0.16,0.16,Other / General Filipino Food,Nationwide / General
+Kalderetang Manok,2,0.05,0.18,0.12,Other / General Filipino Food,Nationwide / General
+Kalderetang Isda,1.7,0.05,0.17,0.1,Other / General Filipino Food,Nationwide / General
+Kalderetang Tuna,1.8,0.05,0.18,0.11,Other / General Filipino Food,Nationwide / General
+Kalderetang Hipon,1.7,0.04,0.17,0.1,Other / General Filipino Food,Nationwide / General
+Seafood Caldereta,1.8,0.05,0.16,0.11,Ulam / Main Dish,Nationwide / General
+Mechadong Baboy,2.3,0.05,0.17,0.17,Ulam / Main Dish,Nationwide / General
+Mechadong Manok,2,0.04,0.2,0.11,Ulam / Main Dish,Nationwide / General
+Mechadong Tuna,1.6,0.04,0.19,0.08,Ulam / Main Dish,Nationwide / General
+Chicken Afritada,1.9,0.07,0.18,0.1,Ulam / Main Dish,Nationwide / General
+Pork Afritada,2.2,0.07,0.16,0.15,Ulam / Main Dish,Nationwide / General
+Seafood Afritada,1.7,0.07,0.16,0.09,Ulam / Main Dish,Nationwide / General
+Menudong Baboy,2.1,0.07,0.15,0.14,Ulam / Main Dish,Nationwide / General
+Menudong Manok,1.8,0.07,0.17,0.09,Ulam / Main Dish,Nationwide / General
+Menudong Baka,2.2,0.06,0.17,0.15,Ulam / Main Dish,Nationwide / General
+Pork Giniling,2.2,0.06,0.15,0.16,Other / General Filipino Food,Nationwide / General
+Giniling with Quail Eggs,2,0.07,0.14,0.13,Other / General Filipino Food,Nationwide / General
+Picadillo,1.8,0.1,0.12,0.1,Other / General Filipino Food,Nationwide / General
+Ginisang Corned Beef with Egg,2.3,0.04,0.13,0.18,Other / General Filipino Food,Nationwide / General
+Ginisang Century Tuna,1.2,0.03,0.17,0.04,Other / General Filipino Food,Nationwide / General
+Tuna Omelet,1.7,0.03,0.15,0.11,Other / General Filipino Food,Nationwide / General
+Tuna Patties,2,0.1,0.14,0.12,Other / General Filipino Food,Nationwide / General
+Tuna Lumpia,2.2,0.16,0.12,0.12,Other / General Filipino Food,Nationwide / General
+Tuna Sisig,1.7,0.03,0.17,0.1,Ulam / Main Dish,Pampanga
+Tuna Kinilaw,1.2,0.02,0.2,0.04,Other / General Filipino Food,Nationwide / General
+Tuna Kilawin,1.2,0.02,0.2,0.04,Other / General Filipino Food,Nationwide / General
+Kilawing Tanigue,1.2,0.02,0.21,0.04,Other / General Filipino Food,Nationwide / General
+Kilawing Tuna Belly,1.8,0.02,0.2,0.1,Other / General Filipino Food,Nationwide / General
+Kinilaw na Dilis,1.3,0.03,0.19,0.05,Other / General Filipino Food,Nationwide / General
+Kinilaw na Hipon,1.1,0.02,0.2,0.03,Other / General Filipino Food,Nationwide / General
+Kinilaw na Lapu-Lapu,1.1,0.02,0.22,0.03,Other / General Filipino Food,Nationwide / General
+Kinilaw na Maya-Maya,1.1,0.02,0.21,0.03,Other / General Filipino Food,Nationwide / General
+Kinilaw na Pusit,1.2,0.02,0.18,0.04,Other / General Filipino Food,Nationwide / General
+Kinilaw na Talaba,0.9,0.03,0.1,0.03,Other / General Filipino Food,Nationwide / General
+Kinilaw na Tahong,0.9,0.02,0.16,0.03,Kakanin / Dessert,Nationwide / General
+Kilawing Talaba,0.9,0.03,0.1,0.03,Other / General Filipino Food,Nationwide / General
+Talaba Kilawin,0.9,0.03,0.1,0.03,Other / General Filipino Food,Nationwide / General
+Steamed Talaba,0.7,0.02,0.1,0.02,Other / General Filipino Food,Nationwide / General
+Grilled Talaba,1,0.02,0.11,0.04,Other / General Filipino Food,Nationwide / General
+Baked Talaba,1.5,0.03,0.1,0.1,Other / General Filipino Food,Nationwide / General
+Garlic Talaba,1.6,0.03,0.11,0.11,Other / General Filipino Food,Nationwide / General
+Buttered Talaba,1.8,0.03,0.1,0.14,Other / General Filipino Food,Nationwide / General
+Talaba Rockefeller,1.9,0.04,0.1,0.15,Other / General Filipino Food,Nationwide / General
+Adobong Talaba,1.2,0.02,0.12,0.06,Ulam / Main Dish,Nationwide / General
+Ginisang Talaba,1.1,0.03,0.12,0.05,Other / General Filipino Food,Nationwide / General
+Talaba Soup,0.4,0.02,0.06,0.01,Other / General Filipino Food,Nationwide / General
+Talaba sa Gata,1.7,0.04,0.11,0.12,Other / General Filipino Food,Nationwide / General
+Oyster Omelet,1.7,0.06,0.1,0.11,Other / General Filipino Food,Nationwide / General
+Fresh Talaba,0.7,0.02,0.1,0.02,Other / General Filipino Food,Nationwide / General
+Talangka Rice,1.8,0.27,0.06,0.06,Rice / Noodles / Soup,Nationwide / General
+Burong Talangka with Rice,1.9,0.27,0.07,0.07,Rice / Noodles / Soup,Nationwide / General
+Ginisang Talangka,1.7,0.03,0.18,0.1,Other / General Filipino Food,Nationwide / General
+Aligue Rice,2,0.27,0.05,0.08,Rice / Noodles / Soup,Nationwide / General
+Crab Fat Rice,2.1,0.27,0.05,0.09,Rice / Noodles / Soup,Nationwide / General
+Bagoong Rice with Egg,1.9,0.26,0.07,0.07,Rice / Noodles / Soup,Nationwide / General
+Danggit Rice,2,0.26,0.1,0.07,Rice / Noodles / Soup,Nationwide / General
+Tinapa Rice,1.7,0.26,0.07,0.05,Rice / Noodles / Soup,Nationwide / General
+Garlic Adobo Rice,1.8,0.27,0.06,0.06,Ulam / Main Dish,Nationwide / General
+Chicken Fried Rice,1.8,0.25,0.08,0.06,Rice / Noodles / Soup,Nationwide / General
+Pork Fried Rice,2,0.25,0.08,0.08,Rice / Noodles / Soup,Nationwide / General
+Shrimp Fried Rice,1.8,0.25,0.09,0.06,Rice / Noodles / Soup,Nationwide / General
+Bangus Fried Rice,1.9,0.25,0.09,0.07,Ulam / Main Dish,Nationwide / General
+Longganisa Fried Rice,2.2,0.25,0.09,0.11,Ulam / Main Dish,Nationwide / General
+Tocino Fried Rice,2.1,0.26,0.08,0.1,Rice / Noodles / Soup,Nationwide / General
+Tapa Fried Rice,2,0.25,0.1,0.08,Ulam / Main Dish,Nationwide / General
+Chorizo Fried Rice,2.2,0.25,0.09,0.12,Rice / Noodles / Soup,Nationwide / General
+Binagoongan Rice,2,0.25,0.07,0.09,Rice / Noodles / Soup,Nationwide / General
+Aligue Fried Rice,2.2,0.27,0.06,0.11,Rice / Noodles / Soup,Nationwide / General
+Biko with Latik,2.8,0.5,0.04,0.08,Other / General Filipino Food,Nationwide / General
+Biko Pandan,2.7,0.49,0.04,0.07,Other / General Filipino Food,Nationwide / General
+Biko Ube,2.9,0.52,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Ube Biko,2.9,0.52,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Bibingkang Kanin,2.5,0.45,0.04,0.07,Rice / Noodles / Soup,Nationwide / General
+Bibingkang Malagkit sa Latik,2.8,0.5,0.04,0.09,Kakanin / Dessert,Nationwide / General
+Bibingkang Abnoy,2.3,0.38,0.05,0.07,Kakanin / Dessert,Nationwide / General
+Bibingkang Ilocos,2.4,0.42,0.05,0.07,Kakanin / Dessert,Ilocos Region
+Royal Bibingka,2.6,0.43,0.06,0.09,Kakanin / Dessert,Nationwide / General
+Bibingkang Galapong sa Itlog na Maalat,2.4,0.38,0.06,0.08,Kakanin / Dessert,Nationwide / General
+Bibingkang Mandaue,2.5,0.42,0.05,0.08,Kakanin / Dessert,Nationwide / General
+Bibingkang Malabon,2.5,0.43,0.05,0.08,Kakanin / Dessert,Nationwide / General
+Bibingkang Pinipig,2.6,0.45,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Cassava Bibingka,2.7,0.52,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Puto Lanson,2.2,0.45,0.02,0.03,Kakanin / Dessert,Nationwide / General
+Puto Manapla,2.1,0.42,0.03,0.03,Kakanin / Dessert,Nationwide / General
+Puto Calasiao,2.3,0.46,0.03,0.04,Kakanin / Dessert,Nationwide / General
+Puto Binan,2.3,0.45,0.04,0.05,Kakanin / Dessert,Nationwide / General
+Puto Seco,3.8,0.65,0.05,0.12,Kakanin / Dessert,Nationwide / General
+Puto Flan with Cheese,2.6,0.42,0.06,0.09,Kakanin / Dessert,Nationwide / General
+Puto Ube,2.3,0.45,0.04,0.05,Kakanin / Dessert,Nationwide / General
+Puto Pandan,2.2,0.43,0.04,0.04,Kakanin / Dessert,Nationwide / General
+Puto Maya with Sikwate,2.6,0.5,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Puto Bao,2.2,0.43,0.03,0.04,Kakanin / Dessert,Nationwide / General
+Puto Balanghoy,2.3,0.48,0.02,0.04,Kakanin / Dessert,Nationwide / General
+Kutsinta with Yema,2.5,0.45,0.05,0.07,Kakanin / Dessert,Nationwide / General
+Kutsinta with Coconut,2.2,0.4,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Sapin-Sapin,3,0.5,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Sapin-Sapin Ube,2.7,0.5,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Sapin-Sapin Langka,2.7,0.5,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Sapin-Sapin with Latik,2.9,0.52,0.04,0.1,Kakanin / Dessert,Nationwide / General
+Palitaw sa Latik,2.6,0.45,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Palitaw with Sesame,2.4,0.43,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Maja Mais,2.1,0.35,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Maja Ube,2.3,0.39,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Maja Corn,2.1,0.36,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Maja Langka,2.2,0.38,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Ube Macapuno,2.9,0.5,0.03,0.11,Kakanin / Dessert,Nationwide / General
+Ube Cheese Halaya,3,0.48,0.05,0.13,Kakanin / Dessert,Nationwide / General
+Ube Jam,2.8,0.6,0.02,0.05,Kakanin / Dessert,Nationwide / General
+Minatamis na Langka,2.1,0.5,0.01,0.02,Other / General Filipino Food,Nationwide / General
+Minatamis na Macapuno,2.5,0.52,0.02,0.06,Other / General Filipino Food,Nationwide / General
+Minatamis na Ube,2.7,0.58,0.02,0.05,Kakanin / Dessert,Nationwide / General
+Minatamis na Mais,2,0.43,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Candied Pili,4,0.45,0.05,0.25,Other / General Filipino Food,Nationwide / General
+Pili Mazapan,4.2,0.4,0.06,0.28,Other / General Filipino Food,Nationwide / General
+Pastillas de Leche,3.4,0.6,0.08,0.07,Other / General Filipino Food,Nationwide / General
+Ube Pastillas,3.3,0.58,0.07,0.07,Kakanin / Dessert,Nationwide / General
+Pastillas with Langka,3.3,0.58,0.07,0.07,Other / General Filipino Food,Nationwide / General
+Yema Cake,3.5,0.5,0.06,0.14,Other / General Filipino Food,Nationwide / General
+Yema Balls,3.8,0.55,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Yema Spread,3.2,0.6,0.05,0.08,Other / General Filipino Food,Nationwide / General
+Leche Flan with Ube,2.8,0.35,0.06,0.12,Kakanin / Dessert,Nationwide / General
+Leche Flan with Macapuno,2.9,0.4,0.06,0.12,Kakanin / Dessert,Nationwide / General
+Coffee Jelly,1.2,0.25,0.02,0.02,Fast Food / Commercial,Nationwide / General
+Buko Pandan,2,0.3,0.03,0.08,Beverage,Nationwide / General
+Fruit Salad,1.7,0.3,0.02,0.05,Other / General Filipino Food,Nationwide / General
+Macaroni Salad,2.2,0.28,0.05,0.1,Other / General Filipino Food,Nationwide / General
+Buko Salad,1.9,0.3,0.03,0.07,Beverage,Nationwide / General
+Cathedral Window Jelly,1.6,0.3,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Mango Float,2.7,0.38,0.04,0.12,Fast Food / Commercial,Nationwide / General
+Crema de Fruta,2.8,0.4,0.04,0.13,Other / General Filipino Food,Nationwide / General
+Mango Graham Cake,2.6,0.37,0.04,0.11,Other / General Filipino Food,Nationwide / General
+Graham de Leche,2.8,0.42,0.05,0.12,Other / General Filipino Food,Nationwide / General
+Refrigerator Cake,2.7,0.4,0.04,0.12,Other / General Filipino Food,Nationwide / General
+Ube Graham Cake,2.9,0.42,0.04,0.13,Kakanin / Dessert,Nationwide / General
+Buko Lychee Salad,1.8,0.32,0.02,0.06,Beverage,Nationwide / General
+Pineapple Macaroni Salad,2.2,0.3,0.04,0.1,Other / General Filipino Food,Nationwide / General
+Fiesta Fruit Salad,1.8,0.33,0.02,0.05,Other / General Filipino Food,Nationwide / General
+Taho,1,0.14,0.04,0.02,Kakanin / Dessert,Nationwide / General
+Soy Taho,0.8,0.1,0.05,0.02,Kakanin / Dessert,Nationwide / General
+Strawberry Taho,1.1,0.16,0.04,0.02,Kakanin / Dessert,Nationwide / General
+Ube Taho,1.3,0.22,0.04,0.02,Kakanin / Dessert,Nationwide / General
+Chocolate Taho,1.2,0.2,0.04,0.02,Kakanin / Dessert,Nationwide / General
+Mango Taho,1.2,0.19,0.04,0.02,Kakanin / Dessert,Nationwide / General
+Buko Juice,0.2,0.05,0,0,Beverage,Nationwide / General
+Calamansi Juice,0.35,0.08,0,0,Beverage,Nationwide / General
+Dalandan Juice,0.4,0.09,0.01,0,Beverage,Nationwide / General
+Guyabano Juice,0.55,0.12,0.01,0,Beverage,Nationwide / General
+Mango Juice,0.55,0.13,0.003,0.001,Beverage,Nationwide / General
+Tamarind Juice,0.45,0.11,0.002,0.001,Beverage,Nationwide / General
+Pandan Juice,0.3,0.07,0,0,Beverage,Nationwide / General
+Soursop Shake,0.9,0.15,0.02,0.03,Beverage,Nationwide / General
+Avocado Shake,1.2,0.13,0.02,0.07,Beverage,Nationwide / General
+Mango Shake,0.85,0.16,0.01,0.02,Beverage,Nationwide / General
+Buko Shake,0.8,0.12,0.02,0.03,Beverage,Nationwide / General
+Melon Juice,0.4,0.1,0.002,0.001,Beverage,Nationwide / General
+Melon con Yelo,0.8,0.18,0.01,0.01,Beverage,Nationwide / General
+Cantaloupe Juice,0.4,0.1,0.002,0.001,Beverage,Nationwide / General
+Gulaman Drink,0.6,0.14,0.01,0,Beverage,Nationwide / General
+Pandan Gulaman,0.6,0.14,0.01,0,Beverage,Nationwide / General
+Calamansi Cooler,0.35,0.08,0,0,Other / General Filipino Food,Nationwide / General
+Tsokolate de Batirol,1.5,0.2,0.02,0.05,Beverage,Nationwide / General
+Salabat,0.25,0.06,0,0,Beverage,Nationwide / General
+Sikwate,0.9,0.12,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Tsokolate Eh,1.1,0.14,0.03,0.06,Beverage,Nationwide / General
+Tsokolate Ah,0.8,0.1,0.03,0.04,Beverage,Nationwide / General
+Barako Coffee,0.02,0,0,0,Fast Food / Commercial,Nationwide / General
+Kapeng Barako,0.02,0,0,0,Other / General Filipino Food,Nationwide / General
+Tablea Hot Chocolate,1,0.12,0.03,0.06,Other / General Filipino Food,Nationwide / General
+Ginger Tea,0.25,0.06,0,0,Other / General Filipino Food,Nationwide / General
+Lemongrass Tea,0.2,0.05,0,0,Other / General Filipino Food,Nationwide / General
+Pandan Tea,0.2,0.05,0,0,Other / General Filipino Food,Nationwide / General
+Roselle Tea,0.25,0.06,0,0,Other / General Filipino Food,Nationwide / General
+Binatog,1.1,0.22,0.03,0.01,Other / General Filipino Food,Nationwide / General
+Sweet Binatog,1.7,0.35,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Binatog with Cheese,1.9,0.32,0.06,0.05,Other / General Filipino Food,Nationwide / General
+Nilagang Mani,2.6,0.16,0.09,0.2,Ulam / Main Dish,Nationwide / General
+Boiled Corn,0.9,0.19,0.03,0.01,Other / General Filipino Food,Nationwide / General
+Roasted Corn,1.1,0.22,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Sweet Corn Cup,1.1,0.22,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Chichacorn,5,0.55,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Cornick,5,0.55,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Garlic Cornick,5.1,0.54,0.1,0.26,Other / General Filipino Food,Nationwide / General
+Spicy Cornick,5.1,0.55,0.1,0.26,Other / General Filipino Food,Nationwide / General
+Cheese Cornick,5.2,0.53,0.11,0.27,Other / General Filipino Food,Nationwide / General
+Barbecue Cornick,5.1,0.55,0.1,0.26,Other / General Filipino Food,Nationwide / General
+Salted Peanuts,5.7,0.16,0.26,0.49,Other / General Filipino Food,Nationwide / General
+Adobong Mani,5.8,0.14,0.25,0.51,Ulam / Main Dish,Nationwide / General
+Kropeck,4.2,0.65,0.03,0.14,Other / General Filipino Food,Nationwide / General
+Kropek,4.2,0.65,0.03,0.14,Other / General Filipino Food,Nationwide / General
+Chicharon ni Mang Juan Style,5,0.1,0.4,0.3,Other / General Filipino Food,Nationwide / General
+Banana Chips,5.2,0.62,0.02,0.26,Other / General Filipino Food,Nationwide / General
+Jackfruit Chips,5,0.6,0.03,0.25,Other / General Filipino Food,Nationwide / General
+Cassava Chips,5.1,0.65,0.02,0.25,Kakanin / Dessert,Nationwide / General
+Sweet Potato Chips,5,0.6,0.03,0.25,Other / General Filipino Food,Nationwide / General
+Ube Chips,5,0.6,0.02,0.24,Kakanin / Dessert,Nationwide / General
+Pili Nuts,7,0.07,0.1,0.7,Other / General Filipino Food,Nationwide / General
+Cashew Brittle,5.2,0.6,0.08,0.23,Other / General Filipino Food,Nationwide / General
+Peanut Brittle,5.1,0.55,0.1,0.23,Other / General Filipino Food,Nationwide / General
+Peanut Kisses,5.2,0.45,0.12,0.3,Other / General Filipino Food,Nationwide / General
+Butterscotch Bars,4.2,0.55,0.05,0.18,Other / General Filipino Food,Nationwide / General
+Otap,4.8,0.6,0.06,0.22,Other / General Filipino Food,Nationwide / General
+Rosquillos,4.5,0.6,0.07,0.18,Other / General Filipino Food,Nationwide / General
+Barquillos,4.3,0.65,0.05,0.15,Other / General Filipino Food,Nationwide / General
+Biscocho,4,0.6,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Broas,4,0.62,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Uraro Cookies,4.6,0.65,0.03,0.2,Other / General Filipino Food,Nationwide / General
+Lengua de Gato,4.8,0.6,0.06,0.24,Other / General Filipino Food,Nationwide / General
+Fortune Cookies (Filipino bakery style),4,0.75,0.07,0.08,Other / General Filipino Food,Nationwide / General
+Pan de Limon,2.8,0.5,0.08,0.06,Other / General Filipino Food,Nationwide / General
+Pan de Ube,3,0.52,0.07,0.08,Kakanin / Dessert,Nationwide / General
+Pan de Monggo,2.9,0.5,0.08,0.08,Other / General Filipino Food,Nationwide / General
+Pan de Kastila,2.9,0.52,0.07,0.07,Other / General Filipino Food,Nationwide / General
+Pan de Agua,2.6,0.52,0.08,0.04,Other / General Filipino Food,Nationwide / General
+Pan de Regla,3,0.52,0.07,0.09,Other / General Filipino Food,Nationwide / General
+Pan de Leche,3,0.5,0.09,0.09,Other / General Filipino Food,Nationwide / General
+Pan de Hamburg,2.8,0.5,0.09,0.07,Other / General Filipino Food,Nationwide / General
+Cheese Bread,3.2,0.45,0.1,0.12,Other / General Filipino Food,Nationwide / General
+Ube Cheese Bread,3.3,0.47,0.09,0.13,Kakanin / Dessert,Nationwide / General
+Cheese Roll,3.2,0.48,0.09,0.12,Other / General Filipino Food,Nationwide / General
+Coconut Macaroons,4,0.45,0.06,0.23,Other / General Filipino Food,Nationwide / General
+Egg Bread,3,0.5,0.09,0.09,Other / General Filipino Food,Nationwide / General
+Kalihim,3.1,0.55,0.07,0.08,Other / General Filipino Food,Nationwide / General
+Putok Bread,2.8,0.52,0.08,0.06,Kakanin / Dessert,Nationwide / General
+Star Bread,3,0.55,0.07,0.08,Other / General Filipino Food,Nationwide / General
+Crinkles,4,0.6,0.06,0.18,Other / General Filipino Food,Nationwide / General
+Silvanas Cookies,5,0.45,0.08,0.35,Other / General Filipino Food,Nationwide / General
+Hopiang Baboy,4,0.5,0.07,0.2,Kakanin / Dessert,Nationwide / General
+Hopiang Mongo,3.9,0.55,0.08,0.17,Kakanin / Dessert,Nationwide / General
+Hopiang Ube,4,0.55,0.06,0.19,Kakanin / Dessert,Nationwide / General
+Hopiang Hapon,4,0.52,0.07,0.2,Kakanin / Dessert,Nationwide / General
+Hopiang Langka,4,0.55,0.06,0.19,Kakanin / Dessert,Nationwide / General
+Hopiang Baboy at Itlog,4.2,0.5,0.09,0.23,Kakanin / Dessert,Nationwide / General
+Buko Roll,3.5,0.48,0.07,0.15,Beverage,Nationwide / General
+Cheese Ensaymada,4,0.45,0.09,0.22,Kakanin / Dessert,Nationwide / General
+Ube Ensaymada,4.1,0.5,0.08,0.22,Kakanin / Dessert,Nationwide / General
+Garlic Ensaymada,3.8,0.45,0.08,0.2,Kakanin / Dessert,Nationwide / General
+Mamon Tostado,4,0.5,0.08,0.2,Other / General Filipino Food,Nationwide / General
+Butter Mamon,4.2,0.48,0.08,0.23,Other / General Filipino Food,Nationwide / General
+Cheese Mamon,4.1,0.48,0.09,0.22,Other / General Filipino Food,Nationwide / General
+Ube Mamon,4,0.5,0.08,0.21,Kakanin / Dessert,Nationwide / General
+Mocha Mamon,4,0.49,0.08,0.21,Fast Food / Commercial,Nationwide / General
+Chocolate Mamon,4.1,0.5,0.08,0.22,Other / General Filipino Food,Nationwide / General
+Pianono Ube,3.6,0.5,0.07,0.15,Kakanin / Dessert,Nationwide / General
+Pianono Mocha,3.6,0.5,0.07,0.15,Fast Food / Commercial,Nationwide / General
+Brazo de Ube,3.8,0.45,0.07,0.2,Kakanin / Dessert,Nationwide / General
+Brazo de Pandan,3.8,0.45,0.07,0.2,Other / General Filipino Food,Nationwide / General
+Sans Rival Cake,5,0.4,0.08,0.38,Other / General Filipino Food,Nationwide / General
+Silvanas Cake,5,0.42,0.08,0.37,Other / General Filipino Food,Nationwide / General
+Mango Cake,3.8,0.5,0.06,0.18,Other / General Filipino Food,Nationwide / General
+Ube Cake,4,0.52,0.06,0.2,Kakanin / Dessert,Nationwide / General
+Yema Roll,3.8,0.52,0.07,0.18,Other / General Filipino Food,Nationwide / General
+Swiss Roll,3.6,0.5,0.07,0.16,Other / General Filipino Food,Nationwide / General
+Black Sambo,3.2,0.35,0.05,0.18,Other / General Filipino Food,Nationwide / General
+Cassava Pudding,2.7,0.5,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Bread Pudding,2.8,0.45,0.05,0.1,Other / General Filipino Food,Nationwide / General
+Caramel Cake,3.8,0.5,0.06,0.18,Other / General Filipino Food,Nationwide / General
+Caramel Bars,4.2,0.55,0.06,0.22,Other / General Filipino Food,Nationwide / General
+Banana Loaf,3.2,0.52,0.05,0.12,Other / General Filipino Food,Nationwide / General
+Banana Muffin,3.4,0.5,0.05,0.14,Other / General Filipino Food,Nationwide / General
+Ube Muffin,3.5,0.5,0.05,0.15,Kakanin / Dessert,Nationwide / General
+Pandan Muffin,3.4,0.5,0.05,0.14,Other / General Filipino Food,Nationwide / General
+Cheese Cupcake,3.8,0.45,0.07,0.2,Other / General Filipino Food,Nationwide / General
+Ube Cupcake,3.8,0.5,0.06,0.19,Kakanin / Dessert,Nationwide / General
+Buko Pandan Cake,3.7,0.5,0.06,0.17,Kakanin / Dessert,Nationwide / General
+Mango Tart,3.8,0.5,0.05,0.19,Other / General Filipino Food,Nationwide / General
+Egg Tart,3.5,0.4,0.07,0.18,Other / General Filipino Food,Nationwide / General
+Buko Tart,3.7,0.48,0.05,0.19,Kakanin / Dessert,Nationwide / General
+Pineapple Tart,3.6,0.5,0.05,0.17,Other / General Filipino Food,Nationwide / General
+Ube Tart,3.8,0.5,0.05,0.19,Kakanin / Dessert,Nationwide / General
+Mango Pie,3.6,0.52,0.04,0.17,Fast Food / Commercial,Nationwide / General
+Ube Pie,3.8,0.52,0.05,0.19,Kakanin / Dessert,Nationwide / General
+Cassava Pie,3.5,0.55,0.03,0.15,Kakanin / Dessert,Nationwide / General
+Buko Pandesal,3,0.5,0.07,0.09,Kakanin / Dessert,Nationwide / General
+Ube Pandesal,3.1,0.52,0.07,0.1,Kakanin / Dessert,Nationwide / General
+Malunggay Pandesal,2.8,0.5,0.08,0.06,Other / General Filipino Food,Nationwide / General
+Cheese Pandesal,3.2,0.48,0.09,0.12,Other / General Filipino Food,Nationwide / General
+Pandan Pandesal,3,0.51,0.07,0.09,Other / General Filipino Food,Nationwide / General
+Garlic Pandesal,3,0.5,0.07,0.1,Other / General Filipino Food,Nationwide / General
+Whole Wheat Pandesal,2.7,0.45,0.1,0.06,Other / General Filipino Food,Nationwide / General
+Ham and Cheese Pandesal,3.4,0.46,0.1,0.14,Other / General Filipino Food,Nationwide / General
+Tuna Pandesal,3.2,0.45,0.12,0.11,Other / General Filipino Food,Nationwide / General
+Choco Pandesal,3.3,0.52,0.07,0.11,Other / General Filipino Food,Nationwide / General
+Spanish Roll,3.2,0.55,0.07,0.1,Other / General Filipino Food,Nationwide / General
+Cheese Monay,3.2,0.5,0.09,0.12,Other / General Filipino Food,Nationwide / General
+Ube Monay,3.1,0.52,0.07,0.1,Kakanin / Dessert,Nationwide / General
+Coconut Monay,3.2,0.5,0.07,0.11,Other / General Filipino Food,Nationwide / General
+Milk Bread,3,0.5,0.08,0.09,Other / General Filipino Food,Nationwide / General
+Raisin Bread,3.1,0.55,0.07,0.08,Other / General Filipino Food,Nationwide / General
+Cinnamon Bread,3.2,0.52,0.07,0.1,Other / General Filipino Food,Nationwide / General
+Toasted Biscocho,4.2,0.6,0.07,0.18,Other / General Filipino Food,Nationwide / General
+Garlic Biscocho,4.3,0.58,0.07,0.2,Other / General Filipino Food,Nationwide / General
+Butter Toast,4,0.55,0.06,0.19,Other / General Filipino Food,Nationwide / General
+Coco Jam Sandwich,3.1,0.55,0.07,0.09,Other / General Filipino Food,Nationwide / General
+Peanut Butter Sandwich,3.2,0.45,0.11,0.13,Other / General Filipino Food,Nationwide / General
+Liver Spread Sandwich,3,0.45,0.12,0.1,Other / General Filipino Food,Nationwide / General
+Ham Sandwich,2.9,0.43,0.13,0.09,Other / General Filipino Food,Nationwide / General
+Tuna Sandwich,2.8,0.42,0.14,0.08,Other / General Filipino Food,Nationwide / General
+Egg Sandwich,2.8,0.43,0.11,0.09,Other / General Filipino Food,Nationwide / General
+Clubhouse Sandwich,2.8,0.3,0.1,0.14,Other / General Filipino Food,Nationwide / General
+Chicken Sandwich,2.5,0.32,0.12,0.1,Other / General Filipino Food,Nationwide / General
+Sisig Sandwich,2.9,0.3,0.12,0.15,Ulam / Main Dish,Pampanga
+Tocino Sandwich,2.8,0.33,0.11,0.13,Other / General Filipino Food,Nationwide / General
+Longganisa Sandwich,3,0.32,0.12,0.16,Ulam / Main Dish,Nationwide / General
+Tapa Sandwich,2.8,0.3,0.13,0.12,Ulam / Main Dish,Nationwide / General
+Lechon Sandwich,3.1,0.3,0.14,0.17,Ulam / Main Dish,Nationwide / General
+Adobo Sandwich,2.8,0.32,0.13,0.12,Ulam / Main Dish,Nationwide / General
+Corned Beef Sandwich,2.7,0.3,0.12,0.12,Other / General Filipino Food,Nationwide / General
+Cheese Toast,3.5,0.4,0.1,0.15,Other / General Filipino Food,Nationwide / General
+Suman sa Gabi,2.3,0.45,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Suman sa Kamoteng Kahoy,2.2,0.45,0.02,0.04,Kakanin / Dessert,Nationwide / General
+Suman sa Mais,2.2,0.43,0.03,0.04,Kakanin / Dessert,Nationwide / General
+Suman sa Coco,2.5,0.45,0.03,0.07,Kakanin / Dessert,Nationwide / General
+Suman sa Latik,2.8,0.48,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Tupig,2.6,0.45,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Inutak,2.7,0.48,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Patupat,2.3,0.45,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Sinukmani,2.7,0.5,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Espasol,2.8,0.55,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Pichi-Pichi,2.1,0.45,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Pichi-Pichi with Cheese,2.4,0.43,0.04,0.06,Other / General Filipino Food,Nationwide / General
+Pichi-Pichi with Coconut,2.3,0.44,0.03,0.05,Other / General Filipino Food,Nationwide / General
+Tikoy,2.6,0.5,0.03,0.04,Other / General Filipino Food,Nationwide / General
+Buchi,3,0.5,0.05,0.1,Other / General Filipino Food,Nationwide / General
+Buchi Ube,3.1,0.52,0.05,0.1,Kakanin / Dessert,Nationwide / General
+Buchi Mongo,3,0.5,0.06,0.09,Other / General Filipino Food,Nationwide / General
+Carioca with Sesame,3,0.55,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Banana Turon with Langka,2.8,0.5,0.02,0.1,Kakanin / Dessert,Nationwide / General
+Ube Turon,2.9,0.5,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Chocolate Turon,3,0.5,0.03,0.12,Kakanin / Dessert,Nationwide / General
+Cheese Turon,3.1,0.48,0.05,0.13,Kakanin / Dessert,Nationwide / General
+Kamote Turon,2.7,0.52,0.02,0.09,Kakanin / Dessert,Nationwide / General
+Buko Turon,2.8,0.5,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Lumpiang Saging,2.7,0.52,0.02,0.09,Other / General Filipino Food,Nationwide / General
+Fried Camote,2.5,0.45,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Fried Banana,2.6,0.5,0.01,0.1,Other / General Filipino Food,Nationwide / General
+Nilupak na Kamoteng Kahoy,2.4,0.48,0.02,0.07,Other / General Filipino Food,Nationwide / General
+Nilupak na Saging,2.3,0.45,0.02,0.06,Other / General Filipino Food,Nationwide / General
+Nilupak na Ube,2.4,0.45,0.02,0.07,Kakanin / Dessert,Nationwide / General
+Nilupak na Gabi,2.3,0.43,0.02,0.07,Other / General Filipino Food,Nationwide / General
+Camoteng Kahoy Halaya,2.7,0.55,0.02,0.07,Other / General Filipino Food,Nationwide / General
+Gabi Halaya,2.6,0.5,0.02,0.08,Other / General Filipino Food,Nationwide / General
+Sweet Cassava,2.2,0.52,0.01,0.03,Kakanin / Dessert,Nationwide / General
+Sweet Gabi,2.2,0.45,0.02,0.03,Other / General Filipino Food,Nationwide / General
+Sweet Ube,2.8,0.6,0.02,0.05,Kakanin / Dessert,Nationwide / General
+Sweet Saba,2.3,0.55,0.01,0.03,Other / General Filipino Food,Nationwide / General
+Coconut Jam,3,0.6,0.02,0.08,Other / General Filipino Food,Nationwide / General
+Ube Jam with Cheese,3.2,0.55,0.04,0.12,Kakanin / Dessert,Nationwide / General
+Langka Jam,2.8,0.62,0.01,0.03,Other / General Filipino Food,Nationwide / General
+Calamay Ube,2.8,0.5,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Peanut Kutsinta,2.6,0.42,0.05,0.08,Kakanin / Dessert,Nationwide / General
+Rice Pudding,1.9,0.35,0.03,0.05,Rice / Noodles / Soup,Nationwide / General
+Coconut Rice Cake,2.6,0.48,0.03,0.09,Rice / Noodles / Soup,Nationwide / General
+Kalamay sa Bao,2.9,0.52,0.03,0.11,Other / General Filipino Food,Nationwide / General
+Linupak,2.4,0.47,0.02,0.07,Other / General Filipino Food,Nationwide / General
+Binaki,2.2,0.42,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Baye-Baye,2.6,0.5,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Binagol,2.8,0.5,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Suman Pinipig,2.5,0.48,0.03,0.07,Kakanin / Dessert,Nationwide / General
+Sinapot,2.7,0.5,0.02,0.1,Other / General Filipino Food,Nationwide / General
+Bodbod,2.4,0.47,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Balisungsong,2.4,0.48,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Sinambong,2.3,0.45,0.03,0.06,Other / General Filipino Food,Nationwide / General
+Alupi,2.4,0.48,0.02,0.07,Other / General Filipino Food,Nationwide / General
+Tinubong,2.5,0.5,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Dudol,2.9,0.52,0.02,0.11,Other / General Filipino Food,Nationwide / General
+Intemtem,2.6,0.5,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Piaya,3.3,0.55,0.05,0.12,Other / General Filipino Food,Nationwide / General
+Ube Piaya,3.4,0.56,0.05,0.13,Kakanin / Dessert,Nationwide / General
+Muscovado Piaya,3.3,0.58,0.04,0.11,Other / General Filipino Food,Nationwide / General
+Cheese Piaya,3.5,0.55,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Chocolate Piaya,3.5,0.57,0.05,0.14,Other / General Filipino Food,Nationwide / General
+Mango Piaya,3.4,0.57,0.04,0.13,Other / General Filipino Food,Nationwide / General
+Buko Piaya,3.4,0.55,0.04,0.13,Beverage,Nationwide / General
+Peanut Piaya,3.6,0.53,0.08,0.17,Other / General Filipino Food,Nationwide / General
+Pili Pie,4.2,0.45,0.06,0.26,Fast Food / Commercial,Nationwide / General
+Pili Tart,4.2,0.45,0.06,0.26,Other / General Filipino Food,Nationwide / General
+Pili Roll,4.1,0.48,0.06,0.24,Other / General Filipino Food,Nationwide / General
+Pili Brownies,4.5,0.45,0.06,0.28,Other / General Filipino Food,Nationwide / General
+Pili Cookies,4.8,0.55,0.07,0.27,Other / General Filipino Food,Nationwide / General
+Cashew Cookies,4.7,0.55,0.07,0.26,Other / General Filipino Food,Nationwide / General
+Cashew Tart,4.3,0.48,0.07,0.25,Other / General Filipino Food,Nationwide / General
+Cashew Bar,4.4,0.5,0.07,0.25,Other / General Filipino Food,Nationwide / General
+Peanut Bar,4.5,0.5,0.09,0.26,Other / General Filipino Food,Nationwide / General
+Sesame Bar,4.3,0.5,0.08,0.23,Other / General Filipino Food,Nationwide / General
+Coconut Brittle,4.5,0.6,0.03,0.22,Other / General Filipino Food,Nationwide / General
+Peanut Roll,4.6,0.52,0.09,0.26,Other / General Filipino Food,Nationwide / General
+Sugar-Coated Peanuts,5,0.45,0.12,0.28,Other / General Filipino Food,Nationwide / General
+Honey Peanuts,5.1,0.45,0.12,0.29,Other / General Filipino Food,Nationwide / General
+Adobong Kasoy,5.8,0.18,0.17,0.46,Ulam / Main Dish,Nationwide / General
+Sweet Pili Nuts,6.2,0.25,0.08,0.5,Other / General Filipino Food,Nationwide / General
+Salted Cashews,5.8,0.3,0.18,0.46,Other / General Filipino Food,Nationwide / General
+Roasted Cashews,5.5,0.3,0.18,0.44,Other / General Filipino Food,Nationwide / General
+Caramel Popcorn,4.2,0.7,0.05,0.12,Other / General Filipino Food,Nationwide / General
+Cheese Popcorn,5,0.55,0.08,0.3,Other / General Filipino Food,Nationwide / General
+Barbecue Popcorn,4.8,0.6,0.06,0.25,Other / General Filipino Food,Nationwide / General
+Butter Popcorn,5,0.55,0.07,0.3,Other / General Filipino Food,Nationwide / General
+Kutsinta Ube,2.4,0.45,0.03,0.04,Kakanin / Dessert,Nationwide / General
+Bibingkang Mandaue,2.5,0.42,0.05,0.08,Kakanin / Dessert,Nationwide / General
+Bibingkang Puso,2.4,0.45,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Bibingkang Cassava with Cheese,2.9,0.5,0.05,0.1,Kakanin / Dessert,Nationwide / General
+Bibingkang Buko,2.6,0.45,0.04,0.09,Kakanin / Dessert,Nationwide / General
+Bibingkang Mais,2.5,0.46,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Bibingkang Malagkit with Latik,2.9,0.52,0.04,0.1,Kakanin / Dessert,Nationwide / General
+Puto Bumbong with Butter,2.8,0.48,0.03,0.1,Kakanin / Dessert,Nationwide / General
+Puto Bumbong with Coconut,2.6,0.47,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Puto Bumbong with Muscovado,2.7,0.52,0.03,0.07,Kakanin / Dessert,Nationwide / General
+Bibingka Espesyal,2.8,0.45,0.06,0.11,Kakanin / Dessert,Nationwide / General
+Special Puto,2.5,0.43,0.05,0.07,Kakanin / Dessert,Nationwide / General
+Cassava Suman,2.3,0.47,0.02,0.05,Kakanin / Dessert,Nationwide / General
+Coconut Suman,2.6,0.47,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Pandan Suman,2.5,0.47,0.03,0.07,Kakanin / Dessert,Nationwide / General
+Ube Suman,2.6,0.5,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Latik Rice Cake,2.9,0.5,0.03,0.11,Rice / Noodles / Soup,Nationwide / General
+Ginataang Halo-Halo with Saba,1.8,0.3,0.03,0.07,Kakanin / Dessert,Nationwide / General
+Ginataang Halo-Halo with Langka,1.9,0.32,0.03,0.07,Kakanin / Dessert,Nationwide / General
+Ginataang Halo-Halo with Ube,2,0.35,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Bilo-Bilo sa Gata,1.9,0.33,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Bilo-Bilo with Corn,1.8,0.32,0.03,0.06,Other / General Filipino Food,Nationwide / General
+Bilo-Bilo with Sweet Potato,1.9,0.34,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Bilo-Bilo with Taro,1.9,0.33,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Minatamis na Bilo-Bilo,2,0.38,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Ginataang Pinipig,2.1,0.38,0.03,0.08,Other / General Filipino Food,Nationwide / General
+Ginataang Munggo,1.9,0.32,0.05,0.06,Other / General Filipino Food,Nationwide / General
+Ginataang Saging,1.8,0.34,0.02,0.06,Other / General Filipino Food,Nationwide / General
+Ginataang Gabi,1.9,0.33,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Ginataang Kamote,1.9,0.35,0.02,0.06,Other / General Filipino Food,Nationwide / General
+Ginataang Buko,2.1,0.32,0.03,0.1,Beverage,Nationwide / General
+Ginataang Langka Dessert,2,0.35,0.02,0.08,Other / General Filipino Food,Nationwide / General
+Ube Sago,1.9,0.36,0.02,0.06,Kakanin / Dessert,Nationwide / General
+Coconut Sago,2,0.33,0.02,0.09,Beverage,Nationwide / General
+Mango Sago,1.8,0.35,0.02,0.05,Beverage,Nationwide / General
+Buko Sago,1.9,0.34,0.02,0.07,Beverage,Nationwide / General
+Pandan Sago,1.8,0.33,0.02,0.06,Beverage,Nationwide / General
+Tapioca with Coconut Milk,2,0.35,0.02,0.09,Other / General Filipino Food,Nationwide / General
+Sweet Tapioca,1.9,0.4,0.01,0.04,Other / General Filipino Food,Nationwide / General
+Sago con Leche,2.2,0.36,0.04,0.1,Beverage,Nationwide / General
+Buko Macapuno,2.2,0.35,0.03,0.12,Beverage,Nationwide / General
+Buko Delight,2,0.33,0.03,0.09,Beverage,Nationwide / General
+Buko Fiesta,2.1,0.35,0.03,0.1,Beverage,Nationwide / General
+Fresh Buko Salad,1.8,0.3,0.02,0.07,Beverage,Nationwide / General
+Lychee Buko Salad,1.9,0.33,0.02,0.07,Beverage,Nationwide / General
+Mango Buko Salad,1.9,0.35,0.02,0.07,Beverage,Nationwide / General
+Pandan Buko Salad,1.9,0.32,0.02,0.08,Beverage,Nationwide / General
+Macapuno Salad,2.2,0.35,0.03,0.12,Other / General Filipino Food,Nationwide / General
+Pineapple Buko Salad,1.9,0.34,0.02,0.07,Beverage,Nationwide / General
+Fiesta Jelly Salad,1.6,0.3,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Gelatin Salad,1.4,0.26,0.02,0.03,Other / General Filipino Food,Nationwide / General
+Coffee Gelatin,1.1,0.19,0.02,0.03,Fast Food / Commercial,Nationwide / General
+Gulaman con Leche,1.6,0.25,0.03,0.05,Beverage,Nationwide / General
+Lychee Jelly,1.2,0.28,0.01,0,Other / General Filipino Food,Nationwide / General
+Fruit Jelly,1.1,0.25,0.01,0,Other / General Filipino Food,Nationwide / General
+Mango Jelly,1.2,0.28,0.01,0,Other / General Filipino Food,Nationwide / General
+Coconut Jelly,1.3,0.25,0.01,0.02,Other / General Filipino Food,Nationwide / General
+Pandan Jelly,1.1,0.25,0.01,0,Other / General Filipino Food,Nationwide / General
+Ube Jelly,1.3,0.3,0.01,0.01,Kakanin / Dessert,Nationwide / General
+Coffee Float,2.2,0.3,0.03,0.1,Fast Food / Commercial,Nationwide / General
+Milo Dinosaur,1.5,0.22,0.04,0.05,Other / General Filipino Food,Nationwide / General
+Milo Shake,1.2,0.18,0.04,0.04,Beverage,Nationwide / General
+Avocado Float,2.4,0.3,0.03,0.14,Fast Food / Commercial,Nationwide / General
+Mango Float Supreme,2.8,0.38,0.04,0.13,Fast Food / Commercial,Nationwide / General
+Halo-Halo Espesyal,1.6,0.28,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Halo-Halo with Ube,1.8,0.32,0.03,0.06,Kakanin / Dessert,Nationwide / General
+Halo-Halo with Leche Flan,2,0.32,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Halo-Halo with Ice Cream,2.2,0.34,0.04,0.1,Kakanin / Dessert,Nationwide / General
+Mais con Hielo,1.3,0.25,0.02,0.03,Other / General Filipino Food,Nationwide / General
+Melon con Hielo,1.2,0.25,0.01,0.01,Beverage,Nationwide / General
+Saging con Hielo,1.5,0.32,0.01,0.02,Other / General Filipino Food,Nationwide / General
+Buko con Hielo,1.2,0.22,0.02,0.02,Beverage,Nationwide / General
+Coffee Jelly Float,2.3,0.32,0.03,0.11,Fast Food / Commercial,Nationwide / General
+Buko Shake with Pandan,1.3,0.2,0.02,0.05,Beverage,Nationwide / General
+Mango Graham Float,2.7,0.38,0.04,0.12,Fast Food / Commercial,Nationwide / General
+Avocado Graham Float,2.8,0.35,0.04,0.14,Fast Food / Commercial,Nationwide / General
+Chocolate Graham Cake,2.9,0.38,0.04,0.14,Other / General Filipino Food,Nationwide / General
+Strawberry Graham Cake,2.7,0.37,0.04,0.12,Other / General Filipino Food,Nationwide / General
+Pineapple Graham Cake,2.7,0.38,0.04,0.12,Other / General Filipino Food,Nationwide / General
+Coffee Graham Cake,2.8,0.37,0.04,0.13,Fast Food / Commercial,Nationwide / General
+Ube Macapuno Cake,3.2,0.45,0.05,0.15,Kakanin / Dessert,Nationwide / General
+Pandan Cake,3,0.45,0.05,0.13,Other / General Filipino Food,Nationwide / General
+Coconut Cake,3.5,0.45,0.05,0.18,Other / General Filipino Food,Nationwide / General
+Mango Chiffon Cake,3.2,0.48,0.06,0.12,Other / General Filipino Food,Nationwide / General
+Ube Chiffon Cake,3.3,0.5,0.06,0.13,Kakanin / Dessert,Nationwide / General
+Mocha Chiffon Cake,3.3,0.48,0.06,0.13,Fast Food / Commercial,Nationwide / General
+Butter Cake,4,0.45,0.06,0.22,Other / General Filipino Food,Nationwide / General
+Marble Cake,4,0.46,0.06,0.22,Other / General Filipino Food,Nationwide / General
+Chocolate Cake,4.1,0.48,0.05,0.23,Other / General Filipino Food,Nationwide / General
+Mango Roll,3.5,0.5,0.06,0.15,Other / General Filipino Food,Nationwide / General
+Ube Roll,3.6,0.5,0.06,0.16,Kakanin / Dessert,Nationwide / General
+Mocha Roll,3.6,0.49,0.06,0.16,Fast Food / Commercial,Nationwide / General
+Egg Roll,3.4,0.47,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Butter Roll,3.6,0.48,0.06,0.17,Other / General Filipino Food,Nationwide / General
+Coconut Roll,3.6,0.5,0.05,0.17,Other / General Filipino Food,Nationwide / General
+Cheese Roll Bread,3.3,0.47,0.09,0.13,Other / General Filipino Food,Nationwide / General
+Ube Cheese Roll,3.4,0.48,0.08,0.14,Kakanin / Dessert,Nationwide / General
+Pandan Roll,3.4,0.49,0.06,0.14,Other / General Filipino Food,Nationwide / General
+Sweet Cheese Bread,3.3,0.45,0.09,0.14,Other / General Filipino Food,Nationwide / General
+Coconut Bread,3.1,0.5,0.06,0.1,Other / General Filipino Food,Nationwide / General
+Raisin Loaf,3.2,0.52,0.07,0.1,Other / General Filipino Food,Nationwide / General
+Ensaymada with Ube,4.1,0.45,0.08,0.23,Kakanin / Dessert,Nationwide / General
+Ensaymada with Cheese,4.1,0.44,0.09,0.23,Kakanin / Dessert,Nationwide / General
+Ensaymada with Ham,4,0.43,0.1,0.22,Kakanin / Dessert,Nationwide / General
+Ensaymada with Butter,4.2,0.45,0.08,0.25,Kakanin / Dessert,Nationwide / General
+Special Ensaymada,4.3,0.45,0.09,0.26,Kakanin / Dessert,Nationwide / General
+Pandan Ensaymada,4.1,0.45,0.08,0.23,Kakanin / Dessert,Nationwide / General
+Chocolate Ensaymada,4.2,0.47,0.08,0.24,Kakanin / Dessert,Nationwide / General
+Mocha Ensaymada,4.2,0.46,0.08,0.24,Kakanin / Dessert,Nationwide / General
+Garlic Bread,3.8,0.45,0.07,0.21,Other / General Filipino Food,Nationwide / General
+Toasted Pandesal,3.3,0.52,0.08,0.11,Other / General Filipino Food,Nationwide / General
+Buttered Pandesal,3.7,0.5,0.08,0.18,Other / General Filipino Food,Nationwide / General
+Coco Bread,3.2,0.5,0.07,0.12,Other / General Filipino Food,Nationwide / General
+Milk Pandesal,3,0.5,0.08,0.09,Other / General Filipino Food,Nationwide / General
+Pandesal with Peanut Butter,3.5,0.45,0.12,0.17,Other / General Filipino Food,Nationwide / General
+Pandesal with Coco Jam,3.3,0.55,0.07,0.1,Other / General Filipino Food,Nationwide / General
+Pandesal with Cheese,3.4,0.48,0.1,0.14,Other / General Filipino Food,Nationwide / General
+Pandesal with Liver Spread,3.2,0.45,0.11,0.13,Other / General Filipino Food,Nationwide / General
+Pandesal with Sardines,3.1,0.43,0.12,0.12,Other / General Filipino Food,Nationwide / General
+Pandesal with Corned Beef,3.3,0.45,0.12,0.14,Other / General Filipino Food,Nationwide / General
+Pandesal with Tuna,3.1,0.43,0.13,0.11,Other / General Filipino Food,Nationwide / General
+Pandesal with Ham,3.2,0.45,0.12,0.13,Other / General Filipino Food,Nationwide / General
+Pandesal with Tocino,3.4,0.47,0.12,0.15,Other / General Filipino Food,Nationwide / General
+Pandesal with Longganisa,3.5,0.45,0.13,0.17,Ulam / Main Dish,Nationwide / General
+Pandesal with Adobo,3.3,0.45,0.13,0.14,Ulam / Main Dish,Nationwide / General
+Pandesal with Egg,3.1,0.45,0.11,0.12,Other / General Filipino Food,Nationwide / General
+Pandesal with Chicken,3.2,0.44,0.13,0.12,Other / General Filipino Food,Nationwide / General
+Pandesal with Lechon,3.5,0.43,0.14,0.18,Ulam / Main Dish,Nationwide / General
+Pandesal with Sisig,3.6,0.43,0.13,0.2,Ulam / Main Dish,Pampanga
+Pandesal with Spam,3.5,0.44,0.12,0.18,Other / General Filipino Food,Nationwide / General
+Pandesal with Hotdog,3.4,0.45,0.11,0.16,Other / General Filipino Food,Nationwide / General
+Pandesal with Bacon,3.6,0.43,0.13,0.21,Other / General Filipino Food,Nationwide / General
+Pandesal with Omelet,3.3,0.44,0.12,0.15,Other / General Filipino Food,Nationwide / General
+Pandesal with Chorizo,3.5,0.44,0.12,0.18,Other / General Filipino Food,Nationwide / General
+Pandesal with Pork Floss,3.4,0.48,0.13,0.14,Other / General Filipino Food,Nationwide / General
+Pandesal with Ube Halaya,3.3,0.55,0.07,0.11,Kakanin / Dessert,Nationwide / General
+Pandesal with Strawberry Jam,3.2,0.57,0.06,0.08,Other / General Filipino Food,Nationwide / General
+Pandesal with Mango Jam,3.2,0.56,0.06,0.08,Other / General Filipino Food,Nationwide / General
+Pandesal with Butter,3.5,0.5,0.08,0.17,Other / General Filipino Food,Nationwide / General
+Pandesal with Chocolate Spread,3.4,0.55,0.07,0.13,Other / General Filipino Food,Nationwide / General
+Pandesal with Condensed Milk,3.4,0.57,0.07,0.12,Other / General Filipino Food,Nationwide / General
+Pandesal with Scrambled Egg,3.2,0.44,0.12,0.13,Other / General Filipino Food,Nationwide / General
+Pancit Guisado sa Pusit,1.7,0.22,0.07,0.06,Rice / Noodles / Soup,Nationwide / General
+Pancit Guisado sa Hipon,1.6,0.22,0.08,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Guisado sa Baboy,1.8,0.22,0.07,0.08,Rice / Noodles / Soup,Nationwide / General
+Pancit Guisado sa Manok,1.7,0.22,0.08,0.06,Rice / Noodles / Soup,Nationwide / General
+Pancit Bato,1.6,0.25,0.05,0.04,Rice / Noodles / Soup,Nationwide / General
+Pancit Puti,1.5,0.23,0.05,0.04,Rice / Noodles / Soup,Nationwide / General
+Pancit Olongapo,1.7,0.22,0.07,0.06,Rice / Noodles / Soup,Nationwide / General
+Pancit Puso,1.7,0.24,0.06,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Cabagan Special,1.9,0.22,0.08,0.09,Rice / Noodles / Soup,Nationwide / General
+Pancit Tuguegarao,1.8,0.23,0.08,0.07,Rice / Noodles / Soup,Nationwide / General
+Pancit Lusay,1.6,0.24,0.05,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Estacion,1.7,0.23,0.06,0.06,Rice / Noodles / Soup,Nationwide / General
+Pancit Buko,1.4,0.22,0.03,0.03,Rice / Noodles / Soup,Nationwide / General
+Pancit Kalasiao,1.6,0.24,0.05,0.05,Rice / Noodles / Soup,Nationwide / General
+Pancit Guisado with Liver,1.9,0.22,0.09,0.08,Rice / Noodles / Soup,Nationwide / General
+Pancit with Chicharon,2,0.23,0.08,0.1,Rice / Noodles / Soup,Nationwide / General
+Sotanghon Guisado,1.7,0.23,0.06,0.06,Other / General Filipino Food,Nationwide / General
+Bihon Guisado,1.6,0.24,0.05,0.05,Other / General Filipino Food,Nationwide / General
+Canton Guisado,1.8,0.23,0.07,0.07,Other / General Filipino Food,Nationwide / General
+Bam-i Special,1.9,0.22,0.08,0.08,Other / General Filipino Food,Visayas
+Chicken Sotanghon Soup,0.8,0.1,0.04,0.03,Other / General Filipino Food,Nationwide / General
+Batchoy Tagalog,1.1,0.1,0.06,0.05,Rice / Noodles / Soup,Visayas
+Batchoy Bisaya,1.2,0.12,0.07,0.06,Rice / Noodles / Soup,Visayas
+Seafood Batchoy,1,0.1,0.07,0.04,Rice / Noodles / Soup,Visayas
+Special Lomi,1.2,0.12,0.06,0.06,Rice / Noodles / Soup,Nationwide / General
+Batangas Lomi,1.3,0.13,0.06,0.07,Rice / Noodles / Soup,Nationwide / General
+Pancit Lomi,1.2,0.13,0.06,0.05,Rice / Noodles / Soup,Nationwide / General
+Seafood Lomi,1.1,0.12,0.07,0.04,Rice / Noodles / Soup,Nationwide / General
+Chicken Lomi,1.2,0.12,0.07,0.05,Rice / Noodles / Soup,Nationwide / General
+Pork Lomi,1.3,0.12,0.07,0.07,Rice / Noodles / Soup,Nationwide / General
+Goto with Tokwa't Baboy,1.4,0.16,0.06,0.06,Rice / Noodles / Soup,Nationwide / General
+Lugaw with Egg,0.9,0.15,0.04,0.02,Rice / Noodles / Soup,Nationwide / General
+Lugaw with Lechon Kawali,1.3,0.14,0.06,0.07,Ulam / Main Dish,Nationwide / General
+Lugaw with Chicken,1,0.15,0.05,0.03,Rice / Noodles / Soup,Nationwide / General
+Lugaw with Tokwa,1.1,0.15,0.05,0.04,Rice / Noodles / Soup,Nationwide / General
+Arroz Caldo with Egg,1,0.14,0.05,0.03,Rice / Noodles / Soup,Nationwide / General
+Arroz Caldo with Garlic,0.9,0.15,0.03,0.02,Rice / Noodles / Soup,Nationwide / General
+Arroz Valenciana with Chicken,1.5,0.2,0.06,0.05,Other / General Filipino Food,Nationwide / General
+Bringhe Kapampangan,1.6,0.2,0.06,0.06,Other / General Filipino Food,Pampanga
+Valenciana Negros,1.5,0.21,0.05,0.05,Other / General Filipino Food,Nationwide / General
+Kinalas,1.1,0.1,0.07,0.05,Other / General Filipino Food,Nationwide / General
+Sinanglay,1.2,0.05,0.1,0.07,Other / General Filipino Food,Nationwide / General
+Pinangat na Isda,1.1,0.04,0.1,0.05,Other / General Filipino Food,Nationwide / General
+Bula,1,0.08,0.08,0.05,Other / General Filipino Food,Nationwide / General
+Tinutungang Manok,1.6,0.03,0.11,0.12,Other / General Filipino Food,Nationwide / General
+Tinuktok,1.5,0.05,0.09,0.1,Other / General Filipino Food,Nationwide / General
+Linarang na Tangigue,1.1,0.04,0.1,0.05,Other / General Filipino Food,Nationwide / General
+Inasal na Panga,2.1,0.02,0.18,0.15,Other / General Filipino Food,Visayas
+Inasal na Isol,2.2,0.02,0.16,0.17,Other / General Filipino Food,Visayas
+Chicken Isol,2.2,0.02,0.16,0.17,Other / General Filipino Food,Nationwide / General
+Isaw ng Baboy,2,0.03,0.15,0.14,Street Food,Nationwide / General
+Isaw ng Manok,1.8,0.02,0.17,0.12,Street Food,Nationwide / General
+Grilled Balunbalunan,1.7,0.02,0.18,0.1,Other / General Filipino Food,Nationwide / General
+Grilled Atay,1.6,0.03,0.2,0.08,Other / General Filipino Food,Nationwide / General
+Pork Liver Barbecue,1.8,0.05,0.17,0.1,Other / General Filipino Food,Nationwide / General
+Chicken Liver Barbecue,1.7,0.05,0.19,0.08,Other / General Filipino Food,Nationwide / General
+Pork Ear Barbecue,2.3,0.01,0.12,0.2,Other / General Filipino Food,Nationwide / General
+Pork Mask Barbecue,2.4,0.01,0.11,0.22,Other / General Filipino Food,Nationwide / General
+Grilled Chicken Feet,2,0.01,0.16,0.15,Other / General Filipino Food,Nationwide / General
+Grilled Chicken Neck,2.1,0.01,0.15,0.16,Other / General Filipino Food,Nationwide / General
+Grilled Chicken Head,2.2,0.01,0.15,0.18,Other / General Filipino Food,Nationwide / General
+Pork Blood Barbecue,1.5,0.05,0.12,0.08,Other / General Filipino Food,Nationwide / General
+Grilled Intestines,2,0.01,0.15,0.15,Other / General Filipino Food,Nationwide / General
+Chorizo Barbecue,3,0.08,0.12,0.23,Other / General Filipino Food,Nationwide / General
+Pork Belly Barbecue,3.2,0.05,0.12,0.26,Other / General Filipino Food,Nationwide / General
+Beef Barbecue,2.5,0.06,0.18,0.17,Other / General Filipino Food,Nationwide / General
+Tuna Barbecue,1.7,0.02,0.22,0.07,Other / General Filipino Food,Nationwide / General
+Squid Barbecue,1.5,0.03,0.18,0.05,Other / General Filipino Food,Nationwide / General
+Shrimp Barbecue,1.4,0.02,0.2,0.04,Other / General Filipino Food,Nationwide / General
+Banana Blossom Salad,0.7,0.1,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Green Mango Salad,0.8,0.16,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Talbos ng Kamote Salad,0.5,0.07,0.03,0.01,Other / General Filipino Food,Nationwide / General
+Talbos ng Sayote Salad,0.4,0.06,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Pipino Salad,0.3,0.04,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Tomato and Onion Salad,0.25,0.05,0.01,0,Other / General Filipino Food,Nationwide / General
+Salted Egg and Tomato Salad,1.1,0.04,0.06,0.08,Other / General Filipino Food,Nationwide / General
+Talong Salad,0.5,0.08,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Lato Salad,0.3,0.04,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Sea Grapes Salad,0.3,0.05,0.01,0,Other / General Filipino Food,Nationwide / General
+Pako Salad,0.4,0.06,0.03,0.01,Other / General Filipino Food,Nationwide / General
+Burong Mustasa with Tilapia,1,0.06,0.1,0.04,Ulam / Main Dish,Nationwide / General
+Burong Kanin at Isda,1.1,0.1,0.08,0.03,Rice / Noodles / Soup,Nationwide / General
+Fermented Rice with Fish,1,0.1,0.07,0.03,Rice / Noodles / Soup,Nationwide / General
+Atsarang Papaya,0.6,0.12,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Atsarang Labanos,0.4,0.07,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Atsarang Ubod,0.5,0.09,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Atsarang Ampalaya,0.4,0.07,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Pickled Mango,0.8,0.17,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Pickled Santol,0.7,0.15,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Pickled Green Papaya,0.6,0.12,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Adobong Balunbalunan,1.7,0.03,0.18,0.1,Ulam / Main Dish,Nationwide / General
+Adobong Paa ng Manok,2,0.02,0.15,0.16,Ulam / Main Dish,Nationwide / General
+Adobong Baka,2,0.03,0.17,0.15,Ulam / Main Dish,Nationwide / General
+Adobong Kambing,1.8,0.03,0.18,0.11,Ulam / Main Dish,Nationwide / General
+Adobong Pugo,2,0.02,0.16,0.15,Ulam / Main Dish,Nationwide / General
+Adobong Tahong sa Gata,1.8,0.04,0.13,0.12,Ulam / Main Dish,Nationwide / General
+Adobong Talaba,1.4,0.03,0.15,0.07,Ulam / Main Dish,Nationwide / General
+Adobong Pusit sa Gata,1.8,0.03,0.16,0.12,Ulam / Main Dish,Nationwide / General
+Adobong Salmon,2.1,0.02,0.19,0.16,Ulam / Main Dish,Nationwide / General
+Adobong Tuna,1.7,0.02,0.22,0.07,Ulam / Main Dish,Nationwide / General
+Fried Chicken Filipino Style,2.6,0.12,0.18,0.16,Other / General Filipino Food,Nationwide / General
+Piniritong Manok,2.6,0.1,0.19,0.16,Other / General Filipino Food,Nationwide / General
+Piniritong Baboy,3,0.05,0.15,0.24,Other / General Filipino Food,Nationwide / General
+Piniritong Isda,2,0.03,0.18,0.12,Other / General Filipino Food,Nationwide / General
+Piniritong Hipon,2.2,0.15,0.17,0.11,Other / General Filipino Food,Nationwide / General
+Piniritong Pusit,2.1,0.12,0.17,0.11,Other / General Filipino Food,Nationwide / General
+Piniritong Talong,1.8,0.1,0.02,0.14,Other / General Filipino Food,Nationwide / General
+Piniritong Tokwa,1.9,0.03,0.16,0.13,Other / General Filipino Food,Nationwide / General
+Piniritong Okra,1.6,0.1,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Piniritong Ampalaya,1.5,0.08,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Piniritong Galunggong,2.1,0.02,0.2,0.14,Other / General Filipino Food,Nationwide / General
+Piniritong Bangus,2.3,0.02,0.19,0.17,Ulam / Main Dish,Nationwide / General
+Piniritong Tilapia,2,0.02,0.2,0.12,Ulam / Main Dish,Nationwide / General
+Piniritong Dalag,1.9,0.02,0.21,0.1,Other / General Filipino Food,Nationwide / General
+Piniritong Hito,2.1,0.02,0.19,0.14,Other / General Filipino Food,Nationwide / General
+Piniritong Dilis,3,0.03,0.3,0.2,Other / General Filipino Food,Nationwide / General
+Piniritong Tahong,2,0.08,0.16,0.12,Kakanin / Dessert,Nationwide / General
+Piniritong Tulya,1.9,0.05,0.17,0.1,Other / General Filipino Food,Nationwide / General
+Piniritong Alimasag,2,0.02,0.19,0.12,Other / General Filipino Food,Nationwide / General
+Piniritong Talaba,2.1,0.1,0.17,0.13,Other / General Filipino Food,Nationwide / General
+Ginisang Sayote with Shrimp,0.8,0.08,0.05,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Ampalaya with Egg,1,0.05,0.07,0.06,Other / General Filipino Food,Nationwide / General
+Ginisang Upo with Misua,0.7,0.08,0.04,0.02,Other / General Filipino Food,Nationwide / General
+Ginisang Repolyo with Corned Beef,1.2,0.08,0.07,0.07,Other / General Filipino Food,Nationwide / General
+Ginisang Patola with Egg,0.9,0.06,0.06,0.04,Other / General Filipino Food,Nationwide / General
+Ginisang Patani with Pork,1.4,0.12,0.08,0.08,Other / General Filipino Food,Nationwide / General
+Ginisang Sigarilyas with Shrimp,0.9,0.07,0.06,0.03,Other / General Filipino Food,Nationwide / General
+Ginisang Talong with Egg,1.1,0.08,0.06,0.07,Other / General Filipino Food,Nationwide / General
+Ginisang Pechay with Tofu,0.9,0.05,0.06,0.05,Other / General Filipino Food,Nationwide / General
+Ginisang Cabbage with Pork,1.2,0.07,0.07,0.08,Other / General Filipino Food,Nationwide / General
+Tinolang Native Chicken,0.8,0.03,0.08,0.04,Ulam / Main Dish,Nationwide / General
+Native Chicken Adobo,1.7,0.02,0.16,0.11,Ulam / Main Dish,Nationwide / General
+Native Chicken Inasal,1.9,0.02,0.17,0.13,Other / General Filipino Food,Visayas
+Native Chicken Soup,0.6,0.02,0.07,0.03,Other / General Filipino Food,Nationwide / General
+Native Chicken Binakol,0.9,0.04,0.08,0.04,Other / General Filipino Food,Nationwide / General
+Native Chicken Curry,1.6,0.06,0.12,0.11,Other / General Filipino Food,Nationwide / General
+Native Chicken Afritada,1.5,0.07,0.11,0.1,Ulam / Main Dish,Nationwide / General
+Native Chicken Caldereta,1.7,0.08,0.12,0.12,Ulam / Main Dish,Nationwide / General
+Native Chicken Tinola,0.8,0.03,0.08,0.04,Ulam / Main Dish,Nationwide / General
+Native Chicken Sinampalukan,0.9,0.03,0.09,0.05,Other / General Filipino Food,Nationwide / General
+Fresh Lumpia Special,1.4,0.15,0.05,0.05,Other / General Filipino Food,Nationwide / General
+Lumpiang Shanghai Special,2.4,0.18,0.1,0.15,Other / General Filipino Food,Nationwide / General
+Vegetable Lumpia,1.7,0.22,0.04,0.07,Other / General Filipino Food,Nationwide / General
+Seafood Lumpia,2,0.16,0.1,0.11,Other / General Filipino Food,Nationwide / General
+Chicken Lumpia,2.1,0.17,0.11,0.12,Other / General Filipino Food,Nationwide / General
+Pork Lumpia,2.4,0.17,0.1,0.16,Other / General Filipino Food,Nationwide / General
+Cheese Lumpia,2.8,0.16,0.1,0.2,Other / General Filipino Food,Nationwide / General
+Togue Lumpia,1.7,0.2,0.05,0.07,Other / General Filipino Food,Nationwide / General
+Ubod Lumpia,1.5,0.16,0.05,0.05,Other / General Filipino Food,Nationwide / General
+Sweet Lumpia,2.6,0.4,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Choco Nut,5.1,0.58,0.08,0.28,Other / General Filipino Food,Nationwide / General
+Classic Choc Nut,4.76,0.41,0.085,0.025,Other / General Filipino Food,Nationwide / General
+Chocnut King,7.78,1,0.22,0.33,Other / General Filipino Food,Nationwide / General
+Chocnut SP,5.39,0.48,0.09,0.39,Other / General Filipino Food,Nationwide / General
+Choc Nut Spread,5.33,0.53,0.13,0.33,Other / General Filipino Food,Nationwide / General
+Dark Chocolate Spread,5.4,0.47,0.13,0.33,Other / General Filipino Food,Nationwide / General
+Flat Tops,5,0.62,0.06,0.26,Other / General Filipino Food,Nationwide / General
+Flat Tops Milk Chocolate,5.33,0.53,0.13,0.3,Other / General Filipino Food,Nationwide / General
+Curly Tops,5,0.61,0.06,0.27,Other / General Filipino Food,Nationwide / General
+Ricoa Breakfast Cocoa,3.5,0.6,0.2,0.15,Other / General Filipino Food,Nationwide / General
+Rico Unsweetened Chocolate Bar,5.4,0.46,0.13,0.33,Other / General Filipino Food,Nationwide / General
+Ricoa Chocolate Syrup,3.2,0.8,0.02,0.01,Other / General Filipino Food,Nationwide / General
+Haw Haw Milk Candy,4.1,0.82,0.04,0.04,Other / General Filipino Food,Nationwide / General
+Haw Haw Chocolate Candy,4,0.88,0,0.02,Other / General Filipino Food,Nationwide / General
+Haw Haw Fruity Flavors,4,0.9,0,0.01,Other / General Filipino Food,Nationwide / General
+White Rabbit Milk Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Mint Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Coconut Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Coffee Candy,4.2,0.77,0.033,0.087,Fast Food / Commercial,Nationwide / General
+White Rabbit Red Bean Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Matcha Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Chocolate Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Durian Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Yogurt Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Corn Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Osmanthus Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Banana Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Wasabi Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Lychee Candy,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+White Rabbit Seasonal Specials,4.2,0.77,0.033,0.087,Other / General Filipino Food,Nationwide / General
+V-Cut Potato Chips (Original),6,0.47,0.067,0.4,Other / General Filipino Food,Nationwide / General
+V-Cut Potato Chips (Onion & Garlic),5.6,0.49,0.065,0.39,Other / General Filipino Food,Nationwide / General
+V-Cut Potato Chips (Spicy Barbecue),6,0.47,0.067,0.4,Other / General Filipino Food,Nationwide / General
+Clover Chips,5.33,0.6,0.033,0.33,Other / General Filipino Food,Nationwide / General
+Clover Chips (Cheese),5.33,0.6,0.033,0.33,Other / General Filipino Food,Nationwide / General
+Clover Chips (Barbecue),5.33,0.6,0.033,0.33,Other / General Filipino Food,Nationwide / General
+Clover Chips (Ham & Cheese),5.33,0.6,0.033,0.33,Other / General Filipino Food,Nationwide / General
+Nova Chips (Classic Crunch),5.33,0.58,0.067,0.27,Other / General Filipino Food,Nationwide / General
+Nova Chips (Cheese),5.33,0.58,0.067,0.27,Other / General Filipino Food,Nationwide / General
+Nova Chips (Homestyle Barbecue),5.33,0.58,0.067,0.27,Other / General Filipino Food,Nationwide / General
+Nova Chips (Country Cheddar),5.33,0.58,0.067,0.27,Other / General Filipino Food,Nationwide / General
+Nova Chips (Sweet Chili),5.33,0.58,0.067,0.27,Other / General Filipino Food,Nationwide / General
+Nova Chips (Jalapeno Spice),5.33,0.58,0.067,0.27,Other / General Filipino Food,Nationwide / General
+Piattos (Cheese),5.6,0.55,0.067,0.33,Other / General Filipino Food,Nationwide / General
+Piattos (Sour Cream & Onion),5.6,0.55,0.067,0.33,Other / General Filipino Food,Nationwide / General
+Piattos (Nacho Pizza),5.6,0.55,0.067,0.33,Other / General Filipino Food,Nationwide / General
+Piattos (Roadhous Barbecue),5.6,0.55,0.067,0.33,Other / General Filipino Food,Nationwide / General
+Piattos (Roast Beef),5.6,0.55,0.067,0.33,Other / General Filipino Food,Nationwide / General
+Piattos (Cheddar & Sour Cream),5.6,0.55,0.067,0.33,Other / General Filipino Food,Nationwide / General
+Chicharron ni Mang Juan (Classic Chicharon),5,0.65,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Chicharron ni Mang Juan (Suka't Sili),5,0.65,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Chicharron ni Mang Juan (Sukang Paombong),5,0.65,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Kropek ni Mang Juan (Sweet Chili Hipon),5.33,0.53,0.07,0.33,Other / General Filipino Food,Nationwide / General
+Kropek ni Mang Juan (Spicy Fried Pusit),5.67,0.57,0.03,0.37,Other / General Filipino Food,Nationwide / General
+Chicken Skin ni Mang Juan,5.07,0.57,0.1,0.27,Other / General Filipino Food,Nationwide / General
+Chicken Skin ni Mang Juan (Suka/Vinegar Flavor),5.07,0.57,0.1,0.27,Other / General Filipino Food,Nationwide / General
+Oishi Cracklings (Salt & Vinegar),5.5,0.2,0.07,0.47,Other / General Filipino Food,Nationwide / General
+Oishi Marty's Cracklin' (Salt & Vinegar),5.35,0.54,0.12,0.31,Other / General Filipino Food,Nationwide / General
+Oishi Marty's Cracklin' (Plain Salted),1.78,0.17,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Oishi Marty's Cracklin' (Spicy Vinegar),5.33,0.57,0.07,0.3,Other / General Filipino Food,Nationwide / General
+Oishi Marty's Cracklin' (Chicken Inasal),5.33,0.57,0.07,0.3,Other / General Filipino Food,Visayas
+Boy Bawang (Garlic),5,0.55,0.07,0.28,Other / General Filipino Food,Nationwide / General
+Boy Bawang (Hot Garlic),5,0.55,0.07,0.28,Other / General Filipino Food,Nationwide / General
+Boy Bawang (Adobo),5,0.55,0.07,0.28,Ulam / Main Dish,Nationwide / General
+Boy Bawang (Chili Cheese),5,0.55,0.07,0.28,Other / General Filipino Food,Nationwide / General
+Boy Bawang (Lechon Manok),5,0.55,0.07,0.28,Ulam / Main Dish,Nationwide / General
+Boy Bawang (Barbecue),5,0.55,0.07,0.28,Other / General Filipino Food,Nationwide / General
+Boy Bawang (Mixed Nuts),5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Boy Bawang (Golden Sweet Corn),4,0.7,0.05,0.15,Other / General Filipino Food,Nationwide / General
+Ding Ding Mixed Nuts,5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Ding Dong Mixed Nuts (Real Garlic),5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Ding Dong Mixed Nuts (Hot & Spicy),5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Ding Dong Snack Mix (Sweet & Spicy),4.8,0.6,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Ding Dong Snack Mix (with Chips & Curls),4.8,0.6,0.1,0.25,Other / General Filipino Food,Nationwide / General
+Nagaraya Cracker Nuts (Original),5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Nagaraya Cracker Nuts (Garlic),5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Nagaraya Cracker Nuts (Adobo),5.6,0.45,0.18,0.36,Ulam / Main Dish,Nationwide / General
+Nagaraya Cracker Nuts (Barbecue),5.6,0.45,0.18,0.36,Other / General Filipino Food,Nationwide / General
+Oishi Prawn Crackers (Original),5.3,0.55,0.07,0.3,Other / General Filipino Food,Nationwide / General
+Oishi Prawn Crackers (Spicy),5.3,0.55,0.07,0.3,Other / General Filipino Food,Nationwide / General
+Oishi Prawn Crackers (Sweet & Extra Hot),5.3,0.55,0.07,0.3,Other / General Filipino Food,Nationwide / General
+Oishi Prawn Crackers (Salted Egg),5.3,0.55,0.07,0.3,Other / General Filipino Food,Nationwide / General
+Oishi Pillows (Chocolate),4.8,0.65,0.05,0.2,Other / General Filipino Food,Nationwide / General
+Oishi Pillows (Ube),4.8,0.65,0.05,0.2,Kakanin / Dessert,Nationwide / General
+Oishi Ridges (Onion & Garlic),5.4,0.55,0.06,0.32,Other / General Filipino Food,Nationwide / General
+Oishi Ridges (Cheese),5.4,0.55,0.06,0.32,Other / General Filipino Food,Nationwide / General
+Oishi Ridges (Barbecue),5.4,0.55,0.06,0.32,Other / General Filipino Food,Nationwide / General
+Oishi Ridges (Cheese & Garlic),5.4,0.55,0.06,0.32,Other / General Filipino Food,Nationwide / General
+Loaded (Chocolate-filled),4.7,0.66,0.05,0.18,Other / General Filipino Food,Nationwide / General
+Loaded (White Chocolate-filled),4.7,0.66,0.05,0.18,Other / General Filipino Food,Nationwide / General
+SkyFlakes (Plain Crackers),4.5,0.72,0.08,0.12,Other / General Filipino Food,Nationwide / General
+SkyFlakes (Tsokolate/Chocolate),4.7,0.7,0.07,0.14,Beverage,Nationwide / General
+SkyFlakes (Condensada),4.7,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+SkyFlakes (Sweet Mantikilya),4.7,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Fita Crackers,4.5,0.72,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Fita Chocolate Sandwich,4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Fita Strawberry Sandwich,4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Fita Spreadz (Spicy Tuna),5,0.68,0.09,0.16,Other / General Filipino Food,Nationwide / General
+Fita Spreadz (Bacon),5,0.68,0.09,0.16,Other / General Filipino Food,Nationwide / General
+Rebisco Crackers (Plain),4.5,0.72,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Rebisco Crackers (Honey Butter),4.7,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Rebisco Crackers (Whole Wheat),4.6,0.71,0.09,0.13,Other / General Filipino Food,Nationwide / General
+Rebisco Sandwich (Cream),4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Rebisco Sandwich (Choco),4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Rebisco Sandwich (Strawberry),4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Rebisco Sandwich (Butter),4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Rebisco Sandwich (Peanut Butter),5.1,0.65,0.09,0.18,Other / General Filipino Food,Nationwide / General
+Rebisco Sandwich (Pastillas),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Hansel Crackers (Plain),4.6,0.71,0.08,0.13,Other / General Filipino Food,Nationwide / General
+Hansel Milk Sandwich,4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Hansel Cholcolate Sandwich,4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Hansel Butter Sandwich,4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Hansel Milky Strawberry Sandwich,4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Hansel MochaSandwich,4.9,0.69,0.07,0.15,Fast Food / Commercial,Nationwide / General
+Magic Flakes (Premium Crackers),4.5,0.72,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Magic Junior (Premium Crackers),4.5,0.72,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Magic Flakes (Cheese Flavored Crackers),4.7,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Magic Creams (Chocolate Cream Cracker Sandwich),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Magic Creams (Butter Flavored Cream Cracker Sandwich),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Magic Junior (Butter & Berry Cracker Sandwich),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Magic Junior (Condensada Cream Cracker Sandwich),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Presto Creams (Peanut Butter Sandwich Cookies),5.1,0.65,0.09,0.18,Other / General Filipino Food,Nationwide / General
+Presto Creams (Chcoco Peanut Butter) ,5.1,0.65,0.09,0.18,Other / General Filipino Food,Nationwide / General
+Presto Creams (Chocolate Sandwich Cookies),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Presto Creams (Choco Vanilla Sandwich Cookies),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Bravo Biscuits,4.8,0.7,0.07,0.14,Other / General Filipino Food,Nationwide / General
+Nissin Butter Coconut Biscuits,5,0.66,0.06,0.16,Other / General Filipino Food,Nationwide / General
+Dewberry Biscuits (Strawberries & Cream),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Dewberry Biscuits (Blueberries & Cream),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Cream-O Chocolate Chip Cookies,5,0.64,0.06,0.24,Other / General Filipino Food,Nationwide / General
+Cream-O Deluxe (Vanilla Cream-Filled Chocolate Cookies with Fudgee Chocolate Topping,5.1,0.63,0.06,0.25,Other / General Filipino Food,Nationwide / General
+Cream-O (Vanilla Cream-Filled Chocolate Sandwich Cookies),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Cream-O (Choco Cream-Filled Chocolate Sandwich Cookies),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Cream-O (Choco & Berries),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Cream-O (Cookies & Cream),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Cream-O (Crinkles),5,0.64,0.06,0.24,Other / General Filipino Food,Nationwide / General
+Bingo Cookies (Double Choco),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Bingo Cookies (Vanilla Cream-Filled Chocolate Sandwich Cookies),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Bingo Cookies (Orange Cream-Filled Chocolate Sandwich Cookies),4.9,0.69,0.07,0.15,Other / General Filipino Food,Nationwide / General
+Oreo Original,4.74,0.68,0.05,0.19,Other / General Filipino Food,Nationwide / General
+Oreo Double Stuf,4.83,0.72,0.03,0.24,Other / General Filipino Food,Nationwide / General
+Oreo Mega Stuf,5,0.69,0.03,0.25,Other / General Filipino Food,Nationwide / General
+Oreo Golden,5,0.74,0.03,0.21,Other / General Filipino Food,Nationwide / General
+Oreo Thins,4.83,0.72,0.04,0.21,Other / General Filipino Food,Nationwide / General
+Hi-Ro Cookies,4.8,0.69,0.05,0.21,Other / General Filipino Food,Nationwide / General
+Marie Biscuits,4.5,0.76,0.08,0.12,Other / General Filipino Food,Nationwide / General
+Otap Bites,4.7,0.68,0.07,0.18,Other / General Filipino Food,Nationwide / General
+Toasted Mamon,4.2,0.58,0.09,0.16,Other / General Filipino Food,Nationwide / General
+Cheese Barquillos,4.8,0.65,0.07,0.22,Other / General Filipino Food,Nationwide / General
+Ube Barquillos,4.8,0.67,0.06,0.21,Kakanin / Dessert,Nationwide / General
+Peanut Barquillos,5,0.6,0.1,0.27,Other / General Filipino Food,Nationwide / General
+Polvoron with Pinipig,5.1,0.54,0.08,0.34,Kakanin / Dessert,Nationwide / General
+Polvoron with Cookies and Cream,5,0.58,0.07,0.31,Kakanin / Dessert,Nationwide / General
+Polvoron with Cashew,5.2,0.51,0.1,0.35,Kakanin / Dessert,Nationwide / General
+Polvoron with Peanut,5.2,0.5,0.11,0.35,Kakanin / Dessert,Nationwide / General
+Polvoron with Coffee,5,0.56,0.07,0.32,Kakanin / Dessert,Nationwide / General
+Polvoron with Matcha,5,0.56,0.07,0.31,Kakanin / Dessert,Nationwide / General
+Polvoron with Choco,5.1,0.55,0.07,0.33,Kakanin / Dessert,Nationwide / General
+Ube Polvoron,5,0.58,0.07,0.31,Kakanin / Dessert,Nationwide / General
+Pinipig Polvoron,5.1,0.55,0.08,0.33,Kakanin / Dessert,Nationwide / General
+Cashew Polvoron,5.2,0.51,0.1,0.35,Kakanin / Dessert,Nationwide / General
+Pandan Polvoron,5,0.57,0.07,0.31,Kakanin / Dessert,Nationwide / General
+Cookies and Cream Polvoron,5,0.58,0.07,0.31,Kakanin / Dessert,Nationwide / General
+Strawberry Polvoron,5,0.59,0.06,0.3,Kakanin / Dessert,Nationwide / General
+Mango Polvoron,5,0.59,0.06,0.3,Kakanin / Dessert,Nationwide / General
+Cheese Polvoron,5.1,0.55,0.08,0.33,Kakanin / Dessert,Nationwide / General
+Buko Pandan Ice Cream,2.1,0.25,0.04,0.11,Beverage,Nationwide / General
+Ube Ice Cream,2.2,0.27,0.04,0.12,Kakanin / Dessert,Nationwide / General
+Cheese Ice Cream,2.3,0.24,0.05,0.13,Other / General Filipino Food,Nationwide / General
+Mango Ice Cream,2,0.29,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Avocado Ice Cream,2.3,0.25,0.04,0.14,Other / General Filipino Food,Nationwide / General
+Coconut Ice Cream,2.2,0.23,0.03,0.14,Other / General Filipino Food,Nationwide / General
+Macapuno Ice Cream,2.2,0.27,0.04,0.12,Other / General Filipino Food,Nationwide / General
+Langka Ice Cream,2.1,0.28,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Chocolate Tablea Ice Cream,2.4,0.24,0.05,0.14,Other / General Filipino Food,Nationwide / General
+Halo-Halo Ice Cream,2.3,0.28,0.04,0.12,Kakanin / Dessert,Nationwide / General
+Sorbetes,1.8,0.24,0.04,0.08,Other / General Filipino Food,Nationwide / General
+Dirty Ice Cream,1.9,0.26,0.04,0.08,Other / General Filipino Food,Nationwide / General
+Cheese Sorbetes,2,0.25,0.05,0.1,Other / General Filipino Food,Nationwide / General
+Ube Sorbetes,1.9,0.27,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Mango Sorbetes,1.7,0.3,0.03,0.05,Other / General Filipino Food,Nationwide / General
+Avocado Sorbetes,2,0.22,0.04,0.12,Other / General Filipino Food,Nationwide / General
+Coconut Sorbetes,2,0.22,0.03,0.13,Other / General Filipino Food,Nationwide / General
+Langka Sorbetes,1.8,0.28,0.03,0.07,Other / General Filipino Food,Nationwide / General
+Chocolate Sorbetes,2.1,0.25,0.05,0.11,Other / General Filipino Food,Nationwide / General
+Corn Sorbetes,1.9,0.28,0.04,0.08,Other / General Filipino Food,Nationwide / General
+Saba con Yelo,1.1,0.25,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Avocado con Yelo,1.5,0.22,0.02,0.08,Other / General Filipino Food,Nationwide / General
+Buko con Leche,1.2,0.18,0.03,0.04,Beverage,Nationwide / General
+Mango con Yelo,1,0.23,0.01,0.01,Other / General Filipino Food,Nationwide / General
+Macapuno con Yelo,1.3,0.22,0.02,0.04,Other / General Filipino Food,Nationwide / General
+Pinipig with Milk,1.8,0.25,0.04,0.06,Other / General Filipino Food,Nationwide / General
+Sweet Corn with Cheese,1.5,0.2,0.04,0.06,Other / General Filipino Food,Nationwide / General
+Sweet Corn with Butter,1.7,0.19,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Boiled Saba,1.16,0.28,0.01,0,Other / General Filipino Food,Nationwide / General
+Boiled Camote,0.86,0.2,0.02,0,Other / General Filipino Food,Nationwide / General
+Boiled Gabi,1.12,0.26,0.01,0,Other / General Filipino Food,Nationwide / General
+Boiled Cassava,1.12,0.27,0.01,0,Kakanin / Dessert,Nationwide / General
+Roasted Saba,1.25,0.3,0.01,0,Other / General Filipino Food,Nationwide / General
+Roasted Kamote,0.95,0.22,0.02,0,Other / General Filipino Food,Nationwide / General
+Roasted Cassava,1.3,0.31,0.01,0.01,Kakanin / Dessert,Nationwide / General
+Roasted Pili,6.5,0.08,0.13,0.68,Other / General Filipino Food,Nationwide / General
+Roasted Peanuts,5.9,0.21,0.25,0.49,Other / General Filipino Food,Nationwide / General
+Roasted Cashews,5.5,0.3,0.18,0.44,Other / General Filipino Food,Nationwide / General
+Sugar-Coated Pili,5.8,0.3,0.1,0.45,Other / General Filipino Food,Nationwide / General
+Coconut Candy,4.2,0.65,0.03,0.18,Other / General Filipino Food,Nationwide / General
+Peanut Candy,5,0.48,0.12,0.28,Other / General Filipino Food,Nationwide / General
+Sesame Candy,5.1,0.45,0.1,0.32,Other / General Filipino Food,Nationwide / General
+Yema Candy,4.5,0.62,0.08,0.16,Other / General Filipino Food,Nationwide / General
+Milk Candy,4.2,0.72,0.06,0.12,Other / General Filipino Food,Nationwide / General
+Pastillas Roll,4.3,0.7,0.07,0.13,Other / General Filipino Food,Nationwide / General
+Cashew Mazapan,5.2,0.42,0.11,0.35,Other / General Filipino Food,Nationwide / General
+Pili Mazapan,5.5,0.35,0.1,0.42,Other / General Filipino Food,Nationwide / General
+Peanut Mazapan,5.1,0.45,0.12,0.32,Other / General Filipino Food,Nationwide / General
+Buko Macaroons,3.9,0.52,0.05,0.18,Beverage,Nationwide / General
+Cassava Macaroons,3.5,0.58,0.04,0.14,Kakanin / Dessert,Nationwide / General
+Leche Flan Cake,3,0.35,0.06,0.15,Kakanin / Dessert,Nationwide / General
+Ube Leche Flan Cake,3.1,0.37,0.06,0.15,Kakanin / Dessert,Nationwide / General
+Mango Leche Flan Cake,2.9,0.38,0.05,0.13,Kakanin / Dessert,Nationwide / General
+Custard Cake,3,0.36,0.06,0.15,Other / General Filipino Food,Nationwide / General
+Brazo Cupcake,3.2,0.38,0.06,0.16,Other / General Filipino Food,Nationwide / General
+Ube Custard,2.4,0.32,0.05,0.1,Kakanin / Dessert,Nationwide / General
+Coconut Custard,2.6,0.28,0.04,0.14,Other / General Filipino Food,Nationwide / General
+Mango Custard,2.3,0.34,0.04,0.08,Other / General Filipino Food,Nationwide / General
+Egg Custard,2.2,0.3,0.06,0.08,Other / General Filipino Food,Nationwide / General
+Cassava Custard,2.6,0.4,0.04,0.09,Kakanin / Dessert,Nationwide / General
+Bibingka Muffin,2.8,0.42,0.06,0.1,Kakanin / Dessert,Nationwide / General
+Ube Bibingka,2.7,0.4,0.05,0.11,Kakanin / Dessert,Nationwide / General
+Cheese Bibingka,2.9,0.38,0.07,0.13,Kakanin / Dessert,Nationwide / General
+Cassava Bibingka with Coconut,2.7,0.45,0.04,0.1,Kakanin / Dessert,Nationwide / General
+Bibingka with Salted Egg,3,0.38,0.07,0.14,Kakanin / Dessert,Nationwide / General
+Bibingka with Cheese,2.9,0.38,0.07,0.13,Kakanin / Dessert,Nationwide / General
+Bibingka with Coconut,2.8,0.42,0.05,0.12,Kakanin / Dessert,Nationwide / General
+Bibingka Supreme,3.1,0.4,0.07,0.15,Kakanin / Dessert,Nationwide / General
+Bibingka Espesyal with Cheese,3,0.39,0.07,0.14,Kakanin / Dessert,Nationwide / General
+Bibingka de Macapuno,2.9,0.43,0.05,0.12,Kakanin / Dessert,Nationwide / General
+Special Halo-Halo,1.5,0.26,0.03,0.04,Kakanin / Dessert,Nationwide / General
+Halo-Halo Fiesta,1.6,0.28,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Halo-Halo Overload,1.9,0.3,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Halo-Halo Royale,1.8,0.29,0.04,0.06,Kakanin / Dessert,Nationwide / General
+Halo-Halo Deluxe,1.7,0.28,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Buko Halo-Halo,1.5,0.25,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Ube Halo-Halo,1.6,0.28,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Mais Halo-Halo,1.5,0.3,0.03,0.04,Kakanin / Dessert,Nationwide / General
+Coffee Halo-Halo,1.6,0.28,0.04,0.05,Kakanin / Dessert,Nationwide / General
+Chocolate Halo-Halo,1.8,0.29,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Mango Halo-Halo,1.4,0.3,0.02,0.03,Kakanin / Dessert,Nationwide / General
+Avocado Halo-Halo,1.7,0.24,0.03,0.08,Kakanin / Dessert,Nationwide / General
+Macapuno Halo-Halo,1.7,0.27,0.03,0.06,Kakanin / Dessert,Nationwide / General
+Langka Halo-Halo,1.5,0.29,0.02,0.04,Kakanin / Dessert,Nationwide / General
+Pinipig Halo-Halo,1.6,0.29,0.03,0.05,Kakanin / Dessert,Nationwide / General
+Leche Flan Halo-Halo,1.9,0.27,0.04,0.08,Kakanin / Dessert,Nationwide / General
+Ice Cream Halo-Halo,2,0.28,0.04,0.09,Kakanin / Dessert,Nationwide / General
+Special Fruit Halo-Halo,1.5,0.31,0.02,0.03,Kakanin / Dessert,Nationwide / General
+Fiesta Halo-Halo,1.7,0.29,0.03,0.06,Kakanin / Dessert,Nationwide / General
+Supreme Halo-Halo,1.9,0.3,0.04,0.07,Kakanin / Dessert,Nationwide / General
+Buko Fiesta Salad,1.8,0.23,0.03,0.09,Beverage,Nationwide / General
+Cathedral Window Dessert,2,0.28,0.03,0.09,Other / General Filipino Food,Nationwide / General
+Fruit Cocktail Salad,1.7,0.3,0.02,0.05,Other / General Filipino Food,Nationwide / General
+Coconut Fruit Salad,1.9,0.25,0.03,0.1,Other / General Filipino Food,Nationwide / General
+Mango Graham Float Supreme,2.2,0.32,0.04,0.1,Fast Food / Commercial,Nationwide / General
+Buko Lychee Delight,1.8,0.26,0.03,0.08,Beverage,Nationwide / General
+Ube Macapuno Delight,2,0.29,0.03,0.09,Kakanin / Dessert,Nationwide / General
+Fiesta Gelatin,1.2,0.25,0.02,0.02,Other / General Filipino Food,Nationwide / General
+Creamy Buko Salad,2,0.25,0.03,0.11,Beverage,Nationwide / General
+Filipino Fruit Salad,1.8,0.29,0.02,0.07,Other / General Filipino Food,Nationwide / General
+Boiled Pechay,0.21,0.024,0.017,0.005,Other / General Filipino Food,Nationwide / General
+Boiled Malunggay Leaves,0.26,0.04,0.03,0.004,Other / General Filipino Food,Nationwide / General
+Boiled Kangkong Leaves,0.2,0.04,0.02,0.003,Other / General Filipino Food,Nationwide / General
+"Tilapia, grilled (inihaw)",1.5,0,0.26,0.05,Ulam / Main Dish,Nationwide / General
+"Bangus belly, grilled (inihaw)",2.3,0,0.23,0.16,Ulam / Main Dish,Nationwide / General
+"Tuna panga, grilled (inihaw)",2.1,0,0.26,0.12,Other / General Filipino Food,Nationwide / General
+Kesong Puti (Carabao' Milk Cheese) ,2.5,0.02,0.18,0.2,Other / General Filipino Food,Nationwide / General
+Yakult,0.65,0.15,0.01,0,Other / General Filipino Food,Nationwide / General
+Soy Milk,0.5,0.04,0.03,0.02,Other / General Filipino Food,Nationwide / General
+Balut,2.2,0.02,0.14,0.17,Street Food,Nationwide / General
+Kwek-Kwek,2.2,0.18,0.08,0.13,Street Food,Nationwide / General
+Fish Balls,1.8,0.22,0.1,0.06,Other / General Filipino Food,Nationwide / General
+Curacha (spanner crab),1.9,0.02,0.2,0.08,Other / General Filipino Food,Nationwide / General
+Talbos ng Kamote (boiled/nilaga),0.3,0.06,0.02,0.003,Ulam / Main Dish,Nationwide / General
+"Ampalaya (Bitter gourd, raw/hilaw)",0.25,0.05,0.01,0.002,Other / General Filipino Food,Nationwide / General
+"Upo (Bottle gourd, boiled/nilaga)",0.2,0.04,0.01,0.001,Ulam / Main Dish,Nationwide / General
+Okra (boiled/nilaga),0.33,0.07,0.02,0.002,Ulam / Main Dish,Nationwide / General
+"Sayote (Chayote, boiled/nilaga)",0.24,0.06,0.01,0.001,Ulam / Main Dish,Nationwide / General
+Strawberry Jam (Baguio),2.5,0.65,0.003,0.001,Other / General Filipino Food,Nationwide / General
+Mango Jam,2.8,0.7,0.003,0.001,Other / General Filipino Food,Nationwide / General
+Guava Jelly,2.7,0.68,0.002,0.001,Other / General Filipino Food,Nationwide / General
+Pineapple Jam,2.6,0.65,0.002,0.001,Other / General Filipino Food,Nationwide / General
+Peanut Butter (local brands),5.9,0.2,0.25,0.5,Other / General Filipino Food,Nationwide / General
+Coco Jam (Minatamis na Niyog),3.2,0.55,0.01,0.05,Other / General Filipino Food,Nationwide / General
+Ube Halaya spread ,3,0.47,0.02,0.12,Kakanin / Dessert,Nationwide / General
+Yema spread,4.1,0.48,0.07,0.21,Other / General Filipino Food,Nationwide / General
+Pastillas spread,3.9,0.56,0.08,0.15,Other / General Filipino Food,Nationwide / General
+Kesong Puti spread,2.5,0.02,0.18,0.2,Other / General Filipino Food,Nationwide / General
+Milk Jam (Carabao's Milk),3,0.5,0.05,0.08,Other / General Filipino Food,Nationwide / General
+Anchor Butter,7.2,0,0,0.8,Other / General Filipino Food,Nationwide / General
+Star Margarine Butter (Classic),7.2,0,0,0.8,Other / General Filipino Food,Nationwide / General
+Star Margarine Butter (Sweet Blend),7,0.02,0,0.78,Other / General Filipino Food,Nationwide / General
+Buko Pandan spread,2,0.3,0.02,0.07,Beverage,Nationwide / General
+Macapuno spread,2.9,0.43,0.02,0.12,Other / General Filipino Food,Nationwide / General
+Tablea Chocolate spread,5,0.4,0.05,0.3,Other / General Filipino Food,Nationwide / General
+Patis (Fish Sauce),0.1,0,0.02,0,Other / General Filipino Food,Nationwide / General
+Toyomansi (Soy Sauce + Calamansi),0.15,0.02,0.01,0,Other / General Filipino Food,Nationwide / General
+Bagoong Alamang (Shrimp Paste),1.5,0.05,0.18,0.08,Other / General Filipino Food,Nationwide / General
+Bagoong Isda (Fermented Fish Paste),1.4,0.03,0.2,0.06,Other / General Filipino Food,Nationwide / General
+Sukang Iloko (Sugarcane Vinegar),0.02,0,0,0,Other / General Filipino Food,Nationwide / General
+Sukang Paombong (Palm Vinegar),0.02,0,0,0,Other / General Filipino Food,Nationwide / General
+Siling Labuyo (Chili Sauce),0.4,0.08,0.01,0.002,Other / General Filipino Food,Nationwide / General
+Banana Ketchup,1.2,0.28,0.01,0.003,Other / General Filipino Food,Nationwide / General
+Mang Tomas (Lechon Sauce),1.5,0.3,0.01,0.02,Ulam / Main Dish,Nationwide / General
+Sarsa ng Kaldereta,1.4,0.25,0.02,0.03,Other / General Filipino Food,Nationwide / General
+Abiu (Abiu),0.7,0.155,0.014,0.008,Other / General Filipino Food,Nationwide / General
+Acerola (Acerola),0.32,0.075,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Ackee (Ackee),1.51,0.03,0.023,0.15,Other / General Filipino Food,Nationwide / General
+Acorn Fruit (Buto ng Oak),3.87,0.406,0.065,0.24,Other / General Filipino Food,Nationwide / General
+African Breadfruit (Breadfruit),1.05,0.23,0.035,0.015,Other / General Filipino Food,Nationwide / General
+African Star Apple (African Star Apple),0.67,0.156,0.011,0.006,Other / General Filipino Food,Nationwide / General
+Almond Fruit (Almond),5.79,0.216,0.212,0.499,Other / General Filipino Food,Nationwide / General
+Alupag (Alupag),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Ambarella (Kedondong / June Plum),0.44,0.105,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Amla (Indian Gooseberry / Amla),0.44,0.101,0.009,0.006,Other / General Filipino Food,Nationwide / General
+Anna Apple,0.52,0.139,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Anonas (Anonas),0.94,0.237,0.026,0.009,Other / General Filipino Food,Nationwide / General
+Apple (Mansanas),0.52,0.138,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Apricot (Aprikot),0.48,0.111,0.014,0.004,Other / General Filipino Food,Nationwide / General
+Aratiles (Jamaican cherry),0.56,0.137,0.007,0.004,Other / General Filipino Food,Nationwide / General
+Asian Pear (Peras na Asyano),0.42,0.107,0.005,0.002,Other / General Filipino Food,Nationwide / General
+Atemoya (Atemoya),0.94,0.25,0.023,0.005,Other / General Filipino Food,Nationwide / General
+Avocado (Abokado),1.6,0.085,0.02,0.147,Other / General Filipino Food,Nationwide / General
+Bael (Bael),0.88,0.31,0.018,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Bungulan (Saging Bungulan),1.12,0.26,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Butuan,1.1,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Gloria,1.1,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Lakatan (Saging Lakatan),1.26,0.296,0.014,0.002,Other / General Filipino Food,Nationwide / General
+Banana — Latundan (Saging Latundan),1.12,0.26,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Morado (Saging Morado),1.12,0.26,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Saba (Saging Saba),1.1,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Señorita (Saging Señorita),1.09,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Tindok/Cardava (Saging Tindok/Cardava),1.09,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Banana — Utong (Saging Utong),1.1,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Barbados Cherry (Seresa ng Barbados),0.32,0.078,0.004,0.003,Other / General Filipino Food,Nationwide / General
+Bartlett Pear (Peras Bartlett),0.58,0.154,0.004,0.001,Other / General Filipino Food,Nationwide / General
+Bayabas (Guava),0.68,0.145,0.026,0.01,Other / General Filipino Food,Nationwide / General
+Bell Fruit (Makopa),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Biasong (rare Mindanao citrus),N/A,N/A,N/A,N/A,Other / General Filipino Food,Mindanao
+Bignay (Bignay),0.35,0.063,0.007,0.008,Other / General Filipino Food,Nationwide / General
+Bilimbi (Kamias),0.23,0.045,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Binukaw (Binukaw),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Biriba (Biriba),0.74,0.18,0.011,0.005,Other / General Filipino Food,Nationwide / General
+Bitter Melon (Ampalaya),0.17,0.037,0.01,0.002,Beverage,Nationwide / General
+Black Grapes (Itim na Ubas),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Black Olive (Itim na Oliba),1.15,0.061,0.008,0.106,Other / General Filipino Food,Nationwide / General
+Black Sapote (Itim na Sapote),0.8,0.34,0.009,0.001,Other / General Filipino Food,Nationwide / General
+Black Seedless Grapes (Itim na Ubas na Walang Buto),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Blackberry (Blackberry),0.43,0.096,0.014,0.005,Other / General Filipino Food,Nationwide / General
+Blackcurrant (Itim na Currant),0.63,0.156,0.014,0.004,Other / General Filipino Food,Nationwide / General
+Blood Orange (Dugong Kahel),0.47,0.118,0.009,0.001,Other / General Filipino Food,Nationwide / General
+Blueberry (Blueberry),0.57,0.145,0.007,0.003,Other / General Filipino Food,Nationwide / General
+Bosc Pear (Peras Bosc),0.58,0.154,0.004,0.001,Other / General Filipino Food,Nationwide / General
+Brazil Nut Fruit (Brazil Nut),6.59,0.12,0.143,0.673,Other / General Filipino Food,Nationwide / General
+Breadfruit (Nangka / Rimas),0.65,0.128,0.024,0.005,Other / General Filipino Food,Nationwide / General
+Breadnut (Kamansi),0.55,0.087,0.025,0.011,Other / General Filipino Food,Nationwide / General
+Buddha's Hand Citron (Kamay ng Buddha),0.29,0.092,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Cacao Fruit (Kakaw),0.89,0.15,0.07,0.33,Other / General Filipino Food,Nationwide / General
+Calamansi (Kalamansi),0.44,0.083,0.004,0.01,Other / General Filipino Food,Nationwide / General
+Camachile (Kamachile),0.75,0.18,0.03,0.005,Other / General Filipino Food,Nationwide / General
+Canary Melon (Melon Canary),0.34,0.083,0.008,0.002,Beverage,Nationwide / General
+Canistel (Chesa),1,0.22,0.015,0.014,Other / General Filipino Food,Nationwide / General
+Cantaloupe (Melon),0.34,0.085,0.008,0.002,Beverage,Nationwide / General
+Cape Gooseberry (Lagundi / Physalis),0.53,0.113,0.016,0.005,Other / General Filipino Food,Nationwide / General
+Carabao Mango (Manggang Kalabaw),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Cardaba Banana (Saging Cardaba),1.09,0.25,0.012,0.003,Other / General Filipino Food,Nationwide / General
+Casaba Melon (Casaba Melon),0.28,0.073,0.008,0.002,Beverage,Nationwide / General
+Cashew (Kasuy),5.53,0.304,0.183,0.443,Other / General Filipino Food,Nationwide / General
+Cashew Apple (Kasuy),0.43,0.104,0.005,0.003,Other / General Filipino Food,Nationwide / General
+Cavendish Banana (Saging Cavendish),0.89,0.228,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Cayenne Pepper Fruit (Siling Cayenne),0.4,0.09,0.02,0.004,Other / General Filipino Food,Nationwide / General
+Cempedak (Cempedak),1.03,0.25,0.03,0.003,Other / General Filipino Food,Nationwide / General
+Charentais Melon (Charentais Melon),0.34,0.083,0.008,0.002,Beverage,Nationwide / General
+Chayote (Sayote),0.19,0.045,0.008,0.001,Other / General Filipino Food,Nationwide / General
+Cherimoya (Tsirimoya),0.75,0.176,0.012,0.005,Other / General Filipino Food,Nationwide / General
+Cherry (Seresa),0.63,0.16,0.011,0.002,Other / General Filipino Food,Nationwide / General
+Cherry Tomato (Kamatis na Cherry),0.18,0.039,0.009,0.002,Other / General Filipino Food,Nationwide / General
+Chili Pepper Fruit (Siling Labuyo),0.4,0.09,0.02,0.004,Other / General Filipino Food,Nationwide / General
+Chinese Jujube (Chinese Jujube),0.79,0.203,0.016,0.002,Kakanin / Dessert,Nationwide / General
+Citron (Citron),0.34,0.092,0.004,0.002,Other / General Filipino Food,Nationwide / General
+Clementine (Clementine),0.47,0.12,0.009,0.002,Other / General Filipino Food,Nationwide / General
+Coconut (Niyog),3.54,0.152,0.033,0.334,Other / General Filipino Food,Nationwide / General
+Concord Grapes (Ubas Concord),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Cotton Candy Grapes (Cotton Candy Ubas),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Cranberry (Cranberry),0.46,0.124,0.004,0.001,Other / General Filipino Food,Nationwide / General
+Crenshaw Melon (Crenshaw Melon),0.36,0.09,0.008,0.002,Beverage,Nationwide / General
+Cucumber (Pipino),0.15,0.036,0.007,0.001,Other / General Filipino Food,Nationwide / General
+Custard Apple (Atis / Anonas),0.94,0.237,0.026,0.009,Other / General Filipino Food,Nationwide / General
+Dalandan (Dalandan),0.47,0.118,0.009,0.001,Other / General Filipino Food,Nationwide / General
+Dalanghita (Tangerine/Mandarin Orange),0.53,0.134,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Date (Datiles),2.82,0.753,0.025,0.004,Other / General Filipino Food,Nationwide / General
+Dragon Fruit (Pitaya),0.5,0.112,0.011,0.004,Other / General Filipino Food,Nationwide / General
+Durian (Durian),1.47,0.273,0.048,0.05,Other / General Filipino Food,Nationwide / General
+Durian — Red Flesh (Pulang Durian),1.47,0.273,0.048,0.05,Other / General Filipino Food,Nationwide / General
+Durian — Yellow Flesh (Dilaw na Durian),1.47,0.273,0.048,0.05,Other / General Filipino Food,Nationwide / General
+Elderberry (Elderberry),0.73,0.182,0.007,0.005,Other / General Filipino Food,Nationwide / General
+Elephant Apple (Elephant Apple),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Feijoa (Feijoa),0.55,0.135,0.006,0.004,Other / General Filipino Food,Nationwide / General
+Fig (Igos),0.74,0.19,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Finger Lime (Finger Lime),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Fuji Apple (Mansanas Fuji),0.52,0.139,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Gala Apple (Mansanas Gala),0.52,0.139,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Galia Melon (Galia Melon),0.34,0.083,0.008,0.002,Beverage,Nationwide / General
+Gandaria (Gandaria),0.5,0.125,0.006,0.002,Other / General Filipino Food,Nationwide / General
+Giant Granadilla (Malaking Granadilla),0.97,0.23,0.02,0.005,Other / General Filipino Food,Nationwide / General
+Golden Delicious Apple (Mansanas Golden Delicious),0.57,0.14,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Golden Kiwi (Gintong Kiwi),0.63,0.15,0.011,0.005,Other / General Filipino Food,Nationwide / General
+Gooseberry (Gooseberry),0.44,0.1,0.009,0.006,Other / General Filipino Food,Nationwide / General
+Granadilla (Granadilla),0.97,0.23,0.02,0.005,Other / General Filipino Food,Nationwide / General
+Granny Smith Apple (Mansanas Granny Smith),0.52,0.139,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Grapefruit (Suha / Grapefruit),0.42,0.107,0.008,0.001,Other / General Filipino Food,Nationwide / General
+Grapes (Ubas),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Green Caviar (Lato),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Green Coconut (Buko),0.19,0.039,0.007,0.002,Beverage,Nationwide / General
+Green Grapes (Berdeng Ubas),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Green Kiwi (Berdeng Kiwi),0.61,0.147,0.011,0.005,Other / General Filipino Food,Nationwide / General
+Green Olive (Berdeng Oliba),1.45,0.039,0.01,0.153,Other / General Filipino Food,Nationwide / General
+Green Plum (Siniguelas),0.46,0.11,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Green Sapote (Berdeng Sapote),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Green Seedless Grapes (Berdeng Ubas na Walang Buto),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Guava (Bayabas),0.68,0.145,0.026,0.01,Other / General Filipino Food,Nationwide / General
+Guimaras Mango (Manggang Guimaras),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Guyabano (Soursop),0.66,0.166,0.01,0.003,Other / General Filipino Food,Nationwide / General
+Hala Fruit (Hala),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Hazelnut Fruit (Hazelnut),6.28,0.168,0.15,0.611,Other / General Filipino Food,Nationwide / General
+Hog Plum (Siniguelas),0.46,0.11,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Honey Kiss Melon (Honey Kiss Melon),0.36,0.09,0.008,0.002,Beverage,Nationwide / General
+Honeydew (Honeydew),0.36,0.091,0.005,0.001,Other / General Filipino Food,Nationwide / General
+Horned Melon (Kiwano),0.44,0.074,0.016,0.013,Beverage,Nationwide / General
+Horse Mango (Manggang Paho),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Ice Cream Bean (Halamias / Ice Cream Bean),0.5,0.12,0.02,0.005,Other / General Filipino Food,Nationwide / General
+Ilama (Ilama),0.74,0.185,0.014,0.005,Other / General Filipino Food,Nationwide / General
+Indian Almond (Talisay),5.75,0.22,0.2,0.49,Other / General Filipino Food,Nationwide / General
+Indian Gooseberry (Amla),0.44,0.101,0.009,0.006,Other / General Filipino Food,Nationwide / General
+Indian Mango (Manggang Indian),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Jackfruit (Langka),1.11,0.254,0.014,0.004,Other / General Filipino Food,Nationwide / General
+Jamaican Cherry (Aratilis),0.56,0.137,0.007,0.004,Other / General Filipino Food,Nationwide / General
+Japanese Plum (Japanese Plum),0.46,0.113,0.007,0.003,Other / General Filipino Food,Nationwide / General
+Java Apple (Makopa),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Jujube (Manzanitas),0.79,0.203,0.016,0.002,Kakanin / Dessert,Nationwide / General
+Kaffir Lime (Suha / Makrut Lime),0.3,0.07,0.007,0.003,Other / General Filipino Food,Nationwide / General
+Kaong (Kaong),0.9,0.22,0.005,0.001,Other / General Filipino Food,Nationwide / General
+Kape Fruit/Coffee Cherry (Bunga ng Kape),N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide / General
+Katchamita Mango (Manggang Katchamita),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Katmon (Katmon),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Kedondong (Kedondong),0.44,0.105,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Key Lime (Dayap),0.3,0.106,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Kiwano (Kiwano),0.44,0.074,0.016,0.013,Other / General Filipino Food,Nationwide / General
+Kiwi (Kiwi),0.61,0.147,0.011,0.005,Other / General Filipino Food,Nationwide / General
+Korean Melon (Korean Melon),0.31,0.078,0.007,0.001,Beverage,Nationwide / General
+Kumquat (Kumquat),0.71,0.156,0.009,0.009,Other / General Filipino Food,Nationwide / General
+Lanzones (Lansones),0.67,0.162,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Latundan Banana (Saging Latundan),1.12,0.26,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Lemon (Limon),0.29,0.093,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Lime (Dayap),0.3,0.106,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Lipote (Lipote),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Longan (Longgan),0.6,0.153,0.014,0.001,Other / General Filipino Food,Nationwide / General
+Loquat (Lokwat),0.47,0.126,0.004,0.002,Other / General Filipino Food,Nationwide / General
+Lucuma (Lukuma),1,0.33,0.014,0.01,Other / General Filipino Food,Nationwide / General
+Lulo (Lulo),0.25,0.06,0.004,0.002,Other / General Filipino Food,Nationwide / General
+Lychee (Litsiyas),0.66,0.166,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Mabolo (Mabolo),0.8,0.18,0.01,0.005,Other / General Filipino Food,Nationwide / General
+Macadamia Fruit (Macadamia),7.18,0.14,0.079,0.756,Other / General Filipino Food,Nationwide / General
+Macapuno (Macapuno),3.54,0.152,0.033,0.334,Other / General Filipino Food,Nationwide / General
+Malay Apple (Tambis),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Malay Gooseberry (Karamay),0.44,0.1,0.009,0.006,Other / General Filipino Food,Nationwide / General
+Mamey Sapote (Mamey),1.24,0.326,0.014,0.005,Other / General Filipino Food,Nationwide / General
+Mandarin (Mandarin),0.53,0.134,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Mandarin Orange (Dalanghita),0.53,0.134,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Mango (Mangga),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Mangosteen (Mangostan),0.73,0.179,0.004,0.006,Other / General Filipino Food,Nationwide / General
+Manila Tamarind (Kamachile),0.75,0.18,0.03,0.005,Other / General Filipino Food,Nationwide / General
+Maprang (Maprang),0.5,0.125,0.006,0.002,Other / General Filipino Food,Nationwide / General
+Marang (Marang),0.74,0.18,0.01,0.003,Other / General Filipino Food,Nationwide / General
+Marian Plum (Gandaria),0.5,0.125,0.006,0.002,Other / General Filipino Food,Nationwide / General
+Medjool Date (Medjool na Datiles),2.77,0.75,0.018,0.002,Other / General Filipino Food,Nationwide / General
+Medlar (Medlar),0.47,0.12,0.004,0.005,Other / General Filipino Food,Nationwide / General
+Meyer Lemon (Meyer Lemon),0.29,0.093,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Miracle Berry (Miracle Berry),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Monstera Fruit (Monstera),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Morado Banana (Saging Morado),1.12,0.26,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Mountain Apple (Makopa),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Mountain Papaya (Papayang Bundok),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Mulberry (Moras),0.43,0.097,0.014,0.004,Other / General Filipino Food,Nationwide / General
+Muntingia Fruit (Aratilis),0.56,0.137,0.007,0.004,Other / General Filipino Food,Nationwide / General
+Muscat Grapes (Ubas Muscat),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Muskmelon (Melon),0.34,0.085,0.008,0.002,Beverage,Nationwide / General
+Naranjilla (Naranhilla),0.25,0.05,0.004,0.002,Other / General Filipino Food,Nationwide / General
+Native Lime (Dayap),0.3,0.106,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Native Philippine Fig (Igos),0.74,0.19,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Navel Orange (Kahel Navel),0.47,0.118,0.009,0.001,Other / General Filipino Food,Nationwide / General
+Nectarine (Nektarina),0.44,0.109,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Nipa Palm Fruit (Bunga ng Nipa),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Olive (Oliba),1.15,0.061,0.008,0.106,Other / General Filipino Food,Nationwide / General
+Orange (Kahel),0.47,0.118,0.009,0.001,Other / General Filipino Food,Nationwide / General
+Otaheite Gooseberry (Karamay),0.44,0.1,0.009,0.006,Other / General Filipino Food,Nationwide / General
+Paho Fruit (Paho),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Palm Fruit (Bunga ng Palma),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Pandanus Fruit (Buko-bukohan),N/A,N/A,N/A,N/A,Beverage,Nationwide / General
+Papaya (Papaya),0.43,0.109,0.005,0.003,Other / General Filipino Food,Nationwide / General
+Passion Fruit (Passion Fruit),0.97,0.233,0.022,0.007,Other / General Filipino Food,Nationwide / General
+Peach (Milokoton / Peach),0.39,0.096,0.009,0.003,Other / General Filipino Food,Nationwide / General
+Pear (Peras),0.57,0.15,0.004,0.001,Other / General Filipino Food,Nationwide / General
+Pecan Fruit (Pecan),6.91,0.14,0.092,0.72,Other / General Filipino Food,Nationwide / General
+Pepino (Pepino),0.35,0.08,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Pepino Melon (Pepino),0.35,0.08,0.007,0.002,Beverage,Nationwide / General
+Persian Melon (Persian Melon),0.34,0.083,0.008,0.002,Beverage,Nationwide / General
+Persimmon (Persimon),0.7,0.184,0.006,0.002,Other / General Filipino Food,Nationwide / General
+Pico Mango (Manggang Pico),0.6,0.15,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Pili Fruit (Pili),3.54,0.03,0.11,0.36,Other / General Filipino Food,Nationwide / General
+Pine Nut Fruit (Pine Nut),6.73,0.132,0.135,0.682,Other / General Filipino Food,Nationwide / General
+Pineapple (Pinya),0.5,0.132,0.005,0.001,Other / General Filipino Food,Nationwide / General
+Pink Guava (Bayabas na Rosas),0.68,0.145,0.026,0.01,Other / General Filipino Food,Nationwide / General
+Pink Lady Apple (Mansanas Pink Lady),0.52,0.139,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Pistachio Fruit (Pistachio),5.62,0.281,0.202,0.455,Other / General Filipino Food,Nationwide / General
+Pitanga (Pitanga),0.33,0.08,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Pitaya (Pitaya),0.5,0.112,0.011,0.004,Other / General Filipino Food,Nationwide / General
+Plantain (Saging na Saba),1.22,0.315,0.015,0.004,Other / General Filipino Food,Nationwide / General
+Plum (Plum / Sirwelas),0.46,0.111,0.007,0.003,Other / General Filipino Food,Nationwide / General
+Pomegranate (Granada),0.83,0.189,0.017,0.012,Other / General Filipino Food,Nationwide / General
+Pomelo (Suha),0.38,0.098,0.008,0.002,Other / General Filipino Food,Nationwide / General
+Pomelo Pink (Rosas na Suha),0.38,0.098,0.008,0.002,Other / General Filipino Food,Nationwide / General
+Pomelo Red (Pulang Suha),0.38,0.098,0.008,0.002,Other / General Filipino Food,Nationwide / General
+Pomelo White (Puting Suha),0.38,0.098,0.008,0.002,Other / General Filipino Food,Nationwide / General
+Ponkan (Ponkan),0.53,0.134,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Prickly Pear (Prickly Pear),0.41,0.097,0.007,0.005,Other / General Filipino Food,Nationwide / General
+Purple Mangosteen (Mangostan),0.73,0.179,0.004,0.006,Other / General Filipino Food,Nationwide / General
+Purple Passionfruit (Lilang Passion Fruit),0.97,0.233,0.022,0.007,Other / General Filipino Food,Nationwide / General
+Queen Pineapple (Pinya Queen),0.5,0.132,0.005,0.001,Other / General Filipino Food,Nationwide / General
+Quince (Kuwins),0.57,0.154,0.004,0.001,Other / General Filipino Food,Nationwide / General
+Rambutan (Rambutan),0.68,0.163,0.009,0.002,Other / General Filipino Food,Nationwide / General
+Raspberry (Raspberry),0.52,0.119,0.012,0.007,Other / General Filipino Food,Nationwide / General
+Red Delicious Apple (Mansanas Red Delicious),0.59,0.143,0.003,0.002,Other / General Filipino Food,Nationwide / General
+Red Dragon Fruit (Pulang Pitaya),0.5,0.112,0.011,0.004,Other / General Filipino Food,Nationwide / General
+Red Grapes (Pulang Ubas),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Red Seedless Grapes (Pulang Ubas na Walang Buto),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Redcurrant (Pulang Currant),0.56,0.138,0.013,0.002,Other / General Filipino Food,Nationwide / General
+Rockmelon (Rockmelon),0.34,0.085,0.008,0.002,Beverage,Nationwide / General
+Rollinia (Rollinia),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Rose Apple (Makopa / Mansanas-rosas),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Rose Hip (Buto ng Rosas),1.62,0.384,0.016,0.034,Other / General Filipino Food,Nationwide / General
+Salak (Salak),0.82,0.22,0.004,0.004,Other / General Filipino Food,Nationwide / General
+Santa Claus Melon (Santa Claus Melon),0.34,0.083,0.008,0.002,Beverage,Nationwide / General
+Santol (Santol),0.94,0.2,0.006,0.006,Other / General Filipino Food,Nationwide / General
+Santol Wild Fruit (Ligaw na Santol),0.94,0.2,0.006,0.006,Other / General Filipino Food,Nationwide / General
+Sapodilla (Chico),0.83,0.193,0.004,0.012,Other / General Filipino Food,Nationwide / General
+Sapote (Sapote),0.83,0.193,0.004,0.012,Other / General Filipino Food,Nationwide / General
+Satsuma (Satsuma),0.47,0.12,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Screw Pine Fruit (Pandan),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Sea Coconut (Buko-dagat),N/A,N/A,N/A,N/A,Beverage,Nationwide / General
+Sea Grape (Lato),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Seedless Grapes (Ubas na Walang Buto),0.69,0.181,0.007,0.002,Other / General Filipino Food,Nationwide / General
+Seedless Watermelon (Pakwan na walang buto),0.3,0.076,0.006,0.002,Beverage,Nationwide / General
+Snake Fruit (Prutas ng Ahas / Salak),0.82,0.22,0.004,0.004,Other / General Filipino Food,Nationwide / General
+Snake Gourd Fruit (Patola),0.2,0.044,0.006,0.002,Other / General Filipino Food,Nationwide / General
+Solo Papaya (Papayang Solo),0.43,0.109,0.005,0.003,Other / General Filipino Food,Nationwide / General
+Sour Cherry (Maasim na Seresa),0.5,0.125,0.01,0.003,Other / General Filipino Food,Nationwide / General
+Squash (Kalabasa),0.26,0.067,0.01,0.001,Other / General Filipino Food,Nationwide / General
+Star Apple (Kaimito),0.58,0.15,0.005,0.005,Other / General Filipino Food,Nationwide / General
+Starfruit (Balimbing),0.31,0.067,0.01,0.003,Other / General Filipino Food,Nationwide / General
+Strawberry (Presas),0.32,0.077,0.007,0.003,Other / General Filipino Food,Nationwide / General
+Strawberry Guava (Bayabas na Presas),0.69,0.147,0.006,0.006,Other / General Filipino Food,Nationwide / General
+Sugar Apple (Atis),0.94,0.237,0.026,0.009,Other / General Filipino Food,Nationwide / General
+Surinam Cherry (Seresa ng Surinam),0.4,0.1,0.008,0.004,Other / General Filipino Food,Nationwide / General
+Sweet Cherry (Matamis na Seresa),0.63,0.16,0.011,0.002,Other / General Filipino Food,Nationwide / General
+Sweet Granadilla (Matamis na Granadilla),0.97,0.23,0.02,0.005,Other / General Filipino Food,Nationwide / General
+Sweet Tamarind (Matamis na Sampalok),2.39,0.63,0.027,0.006,Other / General Filipino Food,Nationwide / General
+Talisay Fruit (Talisay),1,0.15,0.2,0.5,Other / General Filipino Food,Nationwide / General
+Tamarillo (Tamarillo),0.31,0.075,0.011,0.004,Other / General Filipino Food,Nationwide / General
+Tamarind (Sampalok),2.39,0.63,0.027,0.006,Other / General Filipino Food,Nationwide / General
+Tangerine (Tangerine),0.53,0.134,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Tomato (Kamatis),0.18,0.039,0.009,0.002,Other / General Filipino Food,Nationwide / General
+Tondan Banana (Saging Tondan),1.12,0.26,0.011,0.003,Other / General Filipino Food,Nationwide / General
+Valencia Orange (Kahel Valencia),0.47,0.118,0.009,0.001,Other / General Filipino Food,Nationwide / General
+Vanilla Fruit (Vanilya),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Velvet Apple (Mabolo),0.8,0.18,0.01,0.005,Other / General Filipino Food,Nationwide / General
+Velvet Tamarind (Sampaloc na Ligaw),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Walnut Fruit (Walnut),6.54,0.138,0.152,0.652,Other / General Filipino Food,Nationwide / General
+Wambugu Apple,N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Water Apple (Tambis),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Water Berry (Tambis),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+Watermelon (Pakwan),0.3,0.076,0.006,0.002,Beverage,Nationwide / General
+Wax Apple (Makopa),0.25,0.06,0.006,0.003,Other / General Filipino Food,Nationwide / General
+White Currant (Puting Currant),0.56,0.138,0.013,0.002,Other / General Filipino Food,Nationwide / General
+White Dragon Fruit (Puting Pitaya),0.5,0.112,0.011,0.004,Other / General Filipino Food,Nationwide / General
+White Guava (Puting Bayabas),0.68,0.145,0.026,0.01,Other / General Filipino Food,Nationwide / General
+White Sapote (Puting Sapote),0.75,0.18,0.01,0.008,Other / General Filipino Food,Nationwide / General
+Wild Banana (Ligaw na Saging),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Wild Guava (Ligaw na Bayabas),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Wild Jackfruit (Ligaw na Langka),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Wild Mango (Manggang Ligaw),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Wild Passionfruit (Ligaw na Passion Fruit),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Wild Rambutan (Ligaw na Rambutan),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Wild Star Apple (Ligaw na Kaimito),N/A,N/A,N/A,N/A,Other / General Filipino Food,Nationwide / General
+Winter Melon (Kundol),0.13,0.032,0.004,0.002,Beverage,Nationwide / General
+Wood Apple (Kuwak),0.47,0.19,0.035,0.003,Other / General Filipino Food,Nationwide / General
+Yellow Dragon Fruit (Dilaw na Pitaya),0.5,0.112,0.011,0.004,Other / General Filipino Food,Nationwide / General
+Yellow Watermelon (Dilaw na Pakwan),0.3,0.076,0.006,0.002,Beverage,Nationwide / General
+Yuzu (Yuzu),0.53,0.125,0.008,0.003,Other / General Filipino Food,Nationwide / General
+Jollibee Chickenjoy – Drumstick,2.588,0.035,0.235,0.165,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Chickenjoy – Thigh,3.04,0.056,0.216,0.224,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Chickenjoy Spicy – Drumstick,2.824,0.047,0.188,0.165,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Chickenjoy Spicy – Thigh,2.778,0.048,0.183,0.167,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Chickenjoy New Spicy,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Spaghetti,1.484,0.185,0.056,0.056,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Yumburger,3.051,0.254,0.11,0.178,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Cheesy Yumburger,3.106,0.227,0.121,0.189,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Double Cheesy Yumburger,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Bacon Cheesy Yumburger,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Champ,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Aloha Champ,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Champ Jr.,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Amazing Aloha Champ Jr.,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Double Amazing Aloha Champ Jr.,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Burger Steak,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Breakfast Burger Steak,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Cheesy Classic Jolly Hotdog,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Crunchy Chicken Sandwich,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Chicken Nuggets,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Palabok Solo,1.168,0.14,0.057,0.043,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Peach Mango Pie,2.872,0.426,0.032,0.117,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Tuna Pie,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Spicy Tuna Pie,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Jolly Crispy Fries,3.009,0.363,0.035,0.159,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Mashed Potato,1,0.194,0.018,0.027,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Buttered Corn,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Creamy Macaroni Soup,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Chocolate Sundae,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Vanilla Cup Twirl,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Cookies & Cream Sundae,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Mini Chocolate Sundae,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Iced Latte,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Iced Mocha,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Iced Vanilla,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Iced Caramel,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Hot Fresh Brew,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Hot Chocolate,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+Jollibee Iced Coffee Floats,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Big Mac,2.148,0.176,0.098,0.117,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Quarter Pounder with Cheese,2.741,0.208,0.157,0.142,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Cheeseburger,2.479,0.248,0.124,0.124,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Double Cheeseburger,2.683,0.201,0.159,0.146,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Hamburger,2.5,0.3,0.12,0.08,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McChicken,2.454,0.239,0.123,0.129,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Chicken McDo Sandwich,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Filet-O-Fish,2.766,0.284,0.121,0.135,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McSpicy,3.324,0.254,0.114,0.146,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Bacon McDo,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Chicken McDo,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Chicken McNuggets,2.604,0.156,0.208,0.156,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McSpaghetti,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Fries,1.966,0.248,0.026,0.094,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Shake Shake Fries,3.231,0.427,0.034,0.154,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Apple Slices,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Corn Cup,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Hash Browns,2.843,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Sausage McMuffin,2.752,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Bacon & Egg McMuffin,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Sausage with Egg,2.422,0.211,0.137,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Egg McMuffin,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Hotcakes,4.141,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Breakfast McSpaghetti,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McFlurry,2.126,0.283,0.031,0.076,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McDo Sundae,0.977,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Chocolate Sundae,2.035,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Apple Pie,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McDip,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s Hot Fudge Sundae,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McFloat,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McCafé Iced Coffee,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McCafé Coffee,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McCafé Latte,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McCafé Cappuccino,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McCafé Mocha,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
+McDonald’s McCafé Chocolate,N/A,N/A,N/A,N/A,Fast Food / Commercial,Nationwide (Fast Food)
