@@ -108,6 +108,112 @@ def analyze_image():
       "fats": round(chosen_row["Fats per gram"] * grams, 2),
   })
 
+@app.route("/recommend-meal", methods=["POST"])
+def recommend_meal():
+  data = request.get_json()
+  if not data:
+    return jsonify({"success": False, "error": "No JSON data provided."}), 400
+
+  try:
+    bmi = float(data.get("bmi", 22.0))
+    activity_level = data.get("activity_level", "sedentary").lower()
+    goal = data.get("goal", "maintain").lower()
+    weight = data.get("weight")
+  except ValueError:
+    return jsonify({"success": False, "error": "Invalid input types."}), 400
+
+  if not weight or weight <= 0:
+    height = 1.7
+    weight = bmi * (height**2)
+
+  multipliers = {
+      "sedentary": 1.2,
+      "light": 1.375,
+      "moderate": 1.55,
+      "active": 1.725,
+      "high": 1.725,
+  }
+  mult = multipliers.get(activity_level, 1.2)
+
+  bmr = weight * 22
+  tdee = bmr * mult
+
+  if goal in ["lose_weight", "weight loss"]:
+    target_calories = tdee - 500
+  elif goal in ["gain_muscle", "muscle gain"]:
+    target_calories = tdee + 300
+  else:
+    target_calories = tdee
+
+  meal_target_calories = target_calories / 3
+
+  valid_categories = [
+      "Ulam / Main Dish",
+      "Rice / Noodles / Soup",
+      "Other / General Filipino Food",
+  ]
+  filtered_df = df[df["Category"].isin(valid_categories)].copy()
+
+  def score_food(row):
+    cal = float(row["Calories per gram"]) * 100
+    prot = float(row["Protein per gram"]) * 100
+    carbs = float(row["Carbohydrates per gram"]) * 100
+    fats = float(row["Fats per gram"]) * 100
+
+    if cal <= 0:
+      return -999
+
+    protein_ratio = prot / cal
+
+    if goal in ["lose_weight", "weight loss"]:
+      return (protein_ratio * 15) - (cal / 50)
+    elif goal in ["gain_muscle", "muscle gain"]:
+      return prot + (protein_ratio * 10)
+    else:
+      return prot + (carbs * 0.5) - abs(fats - 10)
+
+  filtered_df["Score"] = filtered_df.apply(score_food, axis=1)
+  top_foods = filtered_df.sort_values(by="Score", ascending=False).head(30)
+
+  recommendations = []
+  for _, row in top_foods.iterrows():
+    cal_per_100g = float(row["Calories per gram"]) * 100
+    if cal_per_100g <= 0:
+      continue
+
+    suggested_grams = round((meal_target_calories / cal_per_100g) * 100, 1)
+    if suggested_grams > 500:
+      suggested_grams = 400.0
+    if suggested_grams < 50:
+      suggested_grams = 100.0
+
+    recommendations.append({
+        "food_name": row["Food Names"],
+        "category": row["Category"],
+        "location": row["Location"]
+        if "Location" in row and pd.notna(row["Location"])
+        else "Nationwide / General",
+        "suggested_portion_grams": suggested_grams,
+        "calories": round(cal_per_100g * (suggested_grams / 100), 2),
+        "protein": round(
+            float(row["Protein per gram"]) * suggested_grams, 2
+        ),
+        "carbs": round(
+            float(row["Carbohydrates per gram"]) * suggested_grams, 2
+        ),
+        "fats": round(float(row["Fats per gram"]) * suggested_grams, 2),
+    })
+
+  return jsonify({
+      "success": True,
+      "user_metrics": {
+          "bmi": bmi,
+          "target_daily_calories": round(target_calories, 2),
+          "target_meal_calories": round(meal_target_calories, 2),
+      },
+      "recommendations": recommendations,
+  })
+
 
 if __name__ == "__main__":
   app.run(port=5000)
